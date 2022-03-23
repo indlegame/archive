@@ -1689,149 +1689,181 @@
 		"clove",  /* 30 (10Apr ) */
 		"iftar",  /* 31 (11Apr ) */
 		"nimbu",  /* 32 (12Apr ) */
-		"salam",  /* 33 (13Apr ) */
-		"jiddu",  /* 34 (14Apr ) */
+		"shyok",  /* 33 (13Apr ) */
+		"barfi",  /* 34 (14Apr ) */
 		"ugadi",  /* 35 (15Apr ) */
-		"uttar",  /* 36 (16Apr ) */
-		"atman",  /* 37 (17Apr ) */
-		"quran",  /* 38 (18Apr ) */
-		"tamil",  /* 39 (19Apr ) */
-		"chawl",  /* 40 (20Apr ) */
-		"nifty",  /* 41 (21Apr ) */
-		"jeera",  /* 42 (22Apr ) */
-		"rupee",  /* 43 (23Apr ) */
-		"malik",  /* 44 (24Apr ) */
-		"mirza",  /* 45 (25Apr ) */
-		"sania",  /* 46 (26Apr ) */
-		"indus",  /* 47 (27Apr ) */
-		"bindi",  /* 48 (28Apr ) */
-		"qilas",  /* 49 (29Apr ) */
-		"thali",  /* 50 (30Apr ) */
-		"dhoni",  /* 51 (1May ) */
-		"budha",  /* 52 (2May ) */
-		"sabzi",  /* 53 (3May ) */
-		"bhang",  /* 54 (4May ) */
-		"surat",  /* 55 (5May ) */
-		"unity",  /* 56 (6May ) */
-		"kokum",  /* 57 (7May ) */
-		"anand",  /* 58 (8May ) */
-		"ghats",  /* 59 (9May ) */
-		"mahal",  /* 60 (10May ) */
-		"achar",  /* 61 (11May ) */
-		"nehru",  /* 62 (12May ) */
-		"udupi",  /* 63 (13May ) */
-		"durga",  /* 64 (14May ) */
-		"islam",  /* 65 (15May ) */
-		"aamir",  /* 66 (16May ) */
-		"simla",  /* 67 (17May ) */
-		"chess",  /* 68 (18May ) */
-		"bhuna",  /* 69 (19May ) */
-		"toddy",  /* 70 (20May ) */
-		"babur",  /* 71 (21May ) */
-		"galli",  /* 72 (22May ) */
-		"amrut",  /* 73 (23May ) */
-		"assam",  /* 74 (24May ) */
-		"puttu",  /* 75 (25May ) */
-		"cumin",  /* 76 (26May ) */
-		"mogul",  /* 77 (27May ) */
-		"basti",  /* 78 (28May ) */
-		"baghs",  /* 79 (29May ) */
-		"chaat",  /* 80 (30May ) */
-		"raman",  /* 81 (31May ) */
-		"besan",  /* 82 (1Jun ) */
-		"bandh",  /* 83 (2Jun ) */
-		"pooja",  /* 84 (3Jun ) */
-		"ladoo",  /* 85 (4Jun ) */
-		"lungi",  /* 86 (5Jun ) */
-		"kajol",  /* 87 (6Jun ) */
-		"hindi",  /* 88 (7Jun ) */
-		"vedas",  /* 89 (8Jun ) */
-		"halwa",  /* 90 (9Jun ) */
-		"kochi",  /* 91 (10Jun ) */
-		"paisa",  /* 92 (11Jun ) */
-		"chaas",  /* 93 (12Jun ) */
-		"halal",  /* 94 (13Jun ) */
-		"methi",  /* 95 (14Jun ) */
-		"rajma",  /* 96 (15Jun ) */
-		"raita",  /* 97 (16Jun ) */
-		"raina",  /* 98 (17Jun ) */
-		"bajaj",  /* 99 (18Jun ) */
-		"lotus",  /* 100 (19Jun ) */
-		"khans",  /* 101 (20Jun ) */
-		"bihar",  /* 102 (21Jun ) */
-		"pulav",  /* 103 (22Jun ) */
-		"kapil",  /* 104 (23Jun ) */
+		"sitar",  /* 36 (16Apr ) */
+		"kochi",  /* 37 (17Apr ) */
+		"assam",  /* 38 (18Apr ) */
+		"anand",  /* 39 (19Apr ) */
+		"kumar",  /* 40 (20Apr ) */
+		"rupee",  /* 41 (21Apr ) */
+		"bhang",  /* 42 (22Apr ) */
+		"nehru",  /* 43 (23Apr ) */
+		"chaat",  /* 44 (24Apr ) */
+		"surat",  /* 45 (25Apr ) */
+		"shawl",  /* 46 (26Apr ) */
+		"kalki",  /* 47 (27Apr ) */
+		"ajmer",  /* 48 (28Apr ) */
+		"chess",  /* 49 (29Apr ) */
+		"lungi",  /* 50 (30Apr ) */
+		/* sort and set trivia */
+		"atman",  /* 51 (1May ) */
+		"sabzi",  /* 52 (2May ) */
+		"halwa",  /* 53 (3May ) */
+		"kulti",  /* 54 (4May ) */
+		"aadab",  /* 55 (5May ) */
+		"hindi",  /* 56 (6May ) */
+		"bajaj",  /* 57 (7May ) */
+		"khans",  /* 58 (8May ) */
+		"bekal",  /* 59 (9May ) */
+		"moksh",  /* 60 (10May ) */
+		"choli",  /* 61 (11May ) */
+		"asiad",  /* 62 (12May ) */
+		"bandh",  /* 63 (13May ) */
+		"kokum",  /* 64 (14May ) */
+		"toddy",  /* 65 (15May ) */
+		"thane",  /* 66 (16May ) */
+		"alwar",  /* 67 (17May ) */
+		"achar",  /* 68 (18May ) */
+		"tamil",  /* 69 (19May ) */
+		"pulav",  /* 70 (20May ) */
+		"narad",  /* 71 (21May ) */
+		"Fattu",  /* 72 (22May ) */
+		"squid",  /* 73 (23May ) */
+		"bindi",  /* 74 (24May ) */
+		"aamir",  /* 75 (25May ) */
+		"appam",  /* 76 (26May ) */
+		"kohli",  /* 77 (27May ) */
+		"mango",  /* 78 (28May ) */
+		"uttar",  /* 79 (29May ) */
+		"avadi",  /* 80 (30May ) */
+		"jawan",  /* 81 (31May ) */
+		"salam",  /* 82 (1Jun ) */
+		"besan",  /* 83 (2Jun ) */
+		"raita",  /* 84 (3Jun ) */
+		"mallu",  /* 85 (4Jun ) */
+		"mirza",  /* 86 (5Jun ) */
+		"thali",  /* 87 (6Jun ) */
+		"islam",  /* 88 (7Jun ) */
+		"grape",  /* 89 (8Jun ) */
+		"ranis",  /* 90 (9Jun ) */
+		"indus",  /* 91 (10Jun ) */
+		"latur",  /* 92 (11Jun ) */
+		"caves",  /* 93 (12Jun ) */
+		"nayak",  /* 94 (13Jun ) */
+		"pooja",  /* 95 (14Jun ) */
+		"ladoo",  /* 96 (15Jun ) */
+		"qilas",  /* 97 (16Jun ) */
+		"baghs",  /* 98 (17Jun ) */
+		"cumin",  /* 99 (18Jun ) */
+		"kappa",  /* 100 (19Jun ) */
+		"bally",  /* 101 (20Jun ) */
+		"chola",  /* 102 (21Jun ) */
+		"hisar",  /* 103 (22Jun ) */
+		"salem",  /* 104 (23Jun ) */
 		"nawab",  /* 105 (24Jun ) */
-		"mundu",  /* 106 (25Jun ) */
-		"shawl",  /* 107 (26Jun ) */
-		"sitar",  /* 108 (27Jun ) */
-		"santi",  /* 109 (28Jun ) */
-		"kashi",  /* 110 (29Jun ) */
-		"bajji",  /* 111 (30Jun ) */
-		"shyok",  /* 112 (1Jul ) */
-		"khaki",  /* 113 (2Jul ) */
-		"kebab",  /* 114 (3Jul ) */
-		"kulfi",  /* 115 (4Jul ) */
-		"bekal",  /* 116 (5Jul ) */
-		"poori",  /* 117 (6Jul ) */
-		"kappa",  /* 118 (7Jul ) */
-		"chola",  /* 119 (8Jul ) */
-		"jowar",  /* 120 (9Jul ) */
-		"kohli",  /* 121 (10Jul ) */
-		"appam",  /* 122 (11Jul ) */
-		"sadhu",  /* 123 (12Jul ) */
-		"bhaji",  /* 124 (13Jul ) */
-		"kalki",  /* 125 (14Jul ) */
-		"betel",  /* 126 (15Jul ) */
-		"moksh",  /* 127 (16Jul ) */
-		"akbar",  /* 128 (17Jul ) */
-		"burfi",  /* 129 (18Jul ) */
-		"spice",  /* 130 (19Jul ) */
-		"jagat",  /* 131 (20Jul ) */
-		"dance",  /* 132 (21Jul ) */
-		"prawn",  /* 133 (22Jul ) */
-		"savan",  /* 134 (23Jul ) */
-		"river",  /* 135 (24Jul ) */
-		"crabs",  /* 136 (25Jul ) */
-		"surya",  /* 137 (26Jul ) */
-		"namaz",  /* 138 (27Jul ) */
-		"brahm",  /* 139 (28Jul ) */
-		"bidar",  /* 140 (29Jul ) */
-		"beach",  /* 141 (30Jul ) */
-		"wheat",  /* 142 (31Jul ) */
+		"puttu",  /* 106 (25Jun ) */
+		"lotus",  /* 107 (26Jun ) */
+		"chaas",  /* 108 (27Jun ) */
+		"galli",  /* 109 (28Jun ) */
+		"halal",  /* 110 (29Jun ) */
+		"south",  /* 111 (30Jun ) */
+		"kulfi",  /* 112 (1Jul ) */
+		"durga",  /* 113 (2Jul ) */
+		"asana",  /* 114 (3Jul ) */
+		"sania",  /* 115 (4Jul ) */
+		"mahal",  /* 116 (5Jul ) */
+		"babur",  /* 117 (6Jul ) */
+		"nagar",  /* 118 (7Jul ) */
+		"bhaji",  /* 119 (8Jul ) */
+		"udupi",  /* 120 (9Jul ) */
+		"ghats",  /* 121 (10Jul ) */
+		"tihar",  /* 122 (11Jul ) */
+		"forts",  /* 123 (12Jul ) */
+		"beans",  /* 124 (13Jul ) */
+		"wheat",  /* 125 (14Jul ) */
+		"crabs",  /* 126 (15Jul ) */
+		"omkar",  /* 127 (16Jul ) */
+		"jowar",  /* 128 (17Jul ) */
+		"budha",  /* 129 (18Jul ) */
+		"hindu",  /* 130 (19Jul ) */
+		"mundu",  /* 131 (20Jul ) */
+		"dhoni",  /* 132 (21Jul ) */
+		"rajma",  /* 133 (22Jul ) */
+		"pappu",  /* 134 (23Jul ) */
+		"mogul",  /* 135 (24Jul ) */
+		"betel",  /* 136 (25Jul ) */
+		"raman",  /* 137 (26Jul ) */
+		"basti",  /* 138 (27Jul ) */
+		"kebab",  /* 139 (28Jul ) */
+		"surya",  /* 140 (29Jul ) */
+		"methi",  /* 141 (30Jul ) */
+		"khadi",  /* 142 (31Jul ) */
 		"north",  /* 143 (1Aug ) */
-		"forts",  /* 144 (2Aug ) */
-		"rajas",  /* 145 (3Aug ) */
-		"caves",  /* 146 (4Aug ) */
-		"apple",  /* 147 (5Aug ) */
-		"tejas",  /* 148 (6Aug ) */
-		"hindu",  /* 149 (7Aug ) */
-		"nayak",  /* 150 (8Aug ) */
-		"nagar",  /* 151 (9Aug ) */
-		"guava",  /* 152 (10Aug ) */
-		"music",  /* 153 (11Aug ) */
-		"Fattu",  /* 154 (12Aug ) */
-		"tatas",  /* 155 (13Aug ) */
-		"hills",  /* 156 (14Aug ) */
+		"raina",  /* 144 (2Aug ) */
+		"natya",  /* 145 (3Aug ) */
+		"tatas",  /* 146 (4Aug ) */
+		"kisan",  /* 147 (5Aug ) */
+		"oriya",  /* 148 (6Aug ) */
+		"kapil",  /* 149 (7Aug ) */
+		"munda",  /* 150 (8Aug ) */
+		"music",  /* 151 (9Aug ) */
+		"korba",  /* 152 (10Aug ) */
+		"quran",  /* 153 (11Aug ) */
+		"dewas",  /* 154 (12Aug ) */
+		"simla",  /* 155 (13Aug ) */
+		"gurus",  /* 156 (14Aug ) */
 		"india",  /* 157 (15Aug ) */
-		"pappu",  /* 158 (16Aug ) */
-		"tombs",  /* 159 (17Aug ) */
-		"squid",  /* 160 (18Aug ) */
-		"mango",  /* 161 (19Aug ) */
-		"ranis",  /* 162 (20Aug ) */
-		"beans",  /* 163 (21Aug ) */
-		"parks",  /* 164 (22Aug ) */
-		"mallu",  /* 165 (23Aug ) */
-		"singh",  /* 166 (24Aug ) */
-		"nepal",  /* 167 (25Aug ) */
-		"kumar",  /* 168 (26Aug ) */
-		"gurus",  /* 169 (27Aug ) */
-		"grape",  /* 170 (28Aug ) */
-		"south",  /* 171 (29Aug ) */
-		"asana",  /* 172 (30Aug ) */	
-		"asiad",  /* 173 (31Aug ) */	
-		"asiad",  /* 173 (31Aug ) */	
-		"narad",  /* 174 (1Sep ) */			
+		"brahm",  /* 158 (16Aug ) */
+		"vedas",  /* 159 (17Aug ) */
+		"noida",  /* 160 (18Aug ) */
+		"akola",  /* 161 (19Aug ) */
+		"kashi",  /* 162 (20Aug ) */
+		"bhuna",  /* 163 (21Aug ) */
+		"savan",  /* 164 (22Aug ) */
+		"nepal",  /* 165 (23Aug ) */
+		"santi",  /* 166 (24Aug ) */
+		"amrut",  /* 167 (25Aug ) */
+		"river",  /* 168 (26Aug ) */
+		"kurta",  /* 169 (27Aug ) */
+		"unity",  /* 170 (28Aug ) */
+		"haora",  /* 171 (29Aug ) */
+		"tombs",  /* 172 (30Aug ) */
+		"prawn",  /* 173 (31Aug ) */
+		"guava",  /* 174 (1Sep ) */
+		"dhoti",  /* 175 (2Sep ) */
+		"spice",  /* 176 (3Sep ) */
+		"beach",  /* 177 (4Sep ) */
+		"kajol",  /* 178 (5Sep ) */
+		"paisa",  /* 179 (6Sep ) */
+		"reddy",  /* 180 (7Sep ) */
+		"hills",  /* 181 (8Sep ) */
+		"poori",  /* 182 (9Sep ) */
+		"khaki",  /* 183 (10Sep ) */
+		"malik",  /* 184 (11Sep ) */
+		"tejas",  /* 185 (12Sep ) */
+		"apple",  /* 186 (13Sep ) */
+		"jeera",  /* 187 (14Sep ) */
+		"bajji",  /* 188 (15Sep ) */
+		"jiddu",  /* 189 (16Sep ) */
+		"dhule",  /* 190 (17Sep ) */
+		"namaz",  /* 191 (18Sep ) */
+		"garba",  /* 192 (19Sep ) */
+		"chawl",  /* 193 (20Sep ) */
+		"singh",  /* 194 (21Sep ) */
+		"akbar",  /* 195 (22Sep ) */
+		"nifty",  /* 196 (23Sep ) */
+		"bidar",  /* 197 (24Sep ) */
+		"dance",  /* 198 (25Sep ) */
+		"rajas",  /* 199 (26Sep ) */
+		"sadhu",  /* 200 (27Sep ) */
+		"bihar",  /* 201 (28Sep ) */
+		"gujju",  /* 202 (29Sep ) */
+		"parks",  /* 203 (30Sep ) */
+		"jagat",  /* 204 (1Oct ) */
+		"kriti",  /* 205 (2Oct ) */		
+		"satya",  /* 206 (3Oct ) */			
         "kayak", 
         "moose", 
         "pride", 
@@ -14722,148 +14754,180 @@
 		"clove",
 		"iftar",
 		"nimbu",
-		"salam",
-		"jiddu",
+		"shyok",
+		"barfi",
 		"ugadi",
-		"uttar",
-		"atman",
-		"quran",
-		"tamil",
-		"chawl",
-		"nifty",
-		"jeera",
-		"rupee",
-		"malik",
-		"mirza",
-		"sania",
-		"indus",
-		"bindi",
-		"qilas",
-		"thali",
-		"dhoni",
-		"budha",
-		"sabzi",
-		"bhang",
-		"surat",
-		"unity",
-		"kokum",
-		"anand",
-		"ghats",
-		"mahal",
-		"achar",
-		"nehru",
-		"udupi",
-		"durga",
-		"islam",
-		"aamir",
-		"simla",
-		"chess",
-		"bhuna",
-		"toddy",
-		"babur",
-		"galli",
-		"amrut",
+		"sitar",
+		"kochi",
 		"assam",
-		"puttu",
-		"cumin",
-		"mogul",
-		"basti",
-		"baghs",
+		"anand",
+		"kumar",
+		"rupee",
+		"bhang",
+		"nehru",
 		"chaat",
-		"raman",
-		"besan",
+		"surat",
+		"shawl",
+		"kalki",
+		"ajmer",
+		"chess",
+		"lungi",
+		"atman",
+		"sabzi",
+		"halwa",
+		"kulti",
+		"aadab",
+		"hindi",
+		"bajaj",
+		"khans",
+		"bekal",
+		"moksh",
+		"choli",
+		"asiad",
 		"bandh",
+		"kokum",
+		"toddy",
+		"thane",
+		"alwar",
+		"achar",
+		"tamil",
+		"pulav",
+		"narad",
+		"Fattu",
+		"squid",
+		"bindi",
+		"aamir",
+		"appam",
+		"kohli",
+		"mango",
+		"uttar",
+		"avadi",
+		"jawan",
+		"salam",
+		"besan",
+		"raita",
+		"mallu",
+		"mirza",
+		"thali",
+		"islam",
+		"grape",
+		"ranis",
+		"indus",
+		"latur",
+		"caves",
+		"nayak",
 		"pooja",
 		"ladoo",
-		"lungi",
-		"kajol",
-		"hindi",
-		"vedas",
-		"halwa",
-		"kochi",
-		"paisa",
-		"chaas",
-		"halal",
-		"methi",
-		"rajma",
-		"raita",
-		"raina",
-		"bajaj",
-		"lotus",
-		"khans",
-		"bihar",
-		"pulav",
-		"kapil",
-		"nawab",
-		"mundu",
-		"shawl",
-		"sitar",
-		"santi",
-		"kashi",
-		"bajji",
-		"shyok",
-		"khaki",
-		"kebab",
-		"kulfi",
-		"bekal",
-		"poori",
+		"qilas",
+		"baghs",
+		"cumin",
 		"kappa",
+		"bally",
 		"chola",
-		"jowar",
-		"kohli",
-		"appam",
-		"sadhu",
-		"bhaji",
-		"kalki",
-		"betel",
-		"moksh",
-		"akbar",
-		"burfi",
-		"spice",
-		"jagat",
-		"dance",
-		"prawn",
-		"savan",
-		"river",
-		"crabs",
-		"surya",
-		"namaz",
-		"brahm",
-		"bidar",
-		"beach",
-		"wheat",
-		"north",
-		"forts",
-		"rajas",
-		"caves",
-		"apple",
-		"tejas",
-		"hindu",
-		"nayak",
-		"nagar",
-		"guava",
-		"music",
-		"Fattu",
-		"tatas",
-		"hills",
-		"india",
-		"pappu",
-		"tombs",
-		"squid",
-		"mango",
-		"ranis",
-		"beans",
-		"parks",
-		"mallu",
-		"singh",
-		"nepal",
-		"kumar",
-		"gurus",
-		"grape",
+		"hisar",
+		"salem",
+		"nawab",
+		"puttu",
+		"lotus",
+		"chaas",
+		"galli",
+		"halal",
 		"south",
-		"asana",	
-		"asiad",	
-		"narad",			
+		"kulfi",
+		"durga",
+		"asana",
+		"sania",
+		"mahal",
+		"babur",
+		"nagar",
+		"bhaji",
+		"udupi",
+		"ghats",
+		"tihar",
+		"forts",
+		"beans",
+		"wheat",
+		"crabs",
+		"omkar",
+		"jowar",
+		"budha",
+		"hindu",
+		"mundu",
+		"dhoni",
+		"rajma",
+		"pappu",
+		"mogul",
+		"betel",
+		"raman",
+		"basti",
+		"kebab",
+		"surya",
+		"methi",
+		"khadi",
+		"north",
+		"raina",
+		"natya",
+		"tatas",
+		"kisan",
+		"oriya",
+		"kapil",
+		"munda",
+		"music",
+		"korba",
+		"quran",
+		"dewas",
+		"simla",
+		"gurus",
+		"india",
+		"brahm",
+		"vedas",
+		"noida",
+		"akola",
+		"kashi",
+		"bhuna",
+		"savan",
+		"nepal",
+		"santi",
+		"amrut",
+		"river",
+		"kurta",
+		"unity",
+		"haora",
+		"tombs",
+		"prawn",
+		"guava",
+		"dhoti",
+		"spice",
+		"beach",
+		"kajol",
+		"paisa",
+		"reddy",
+		"hills",
+		"poori",
+		"khaki",
+		"malik",
+		"tejas",
+		"apple",
+		"jeera",
+		"bajji",
+		"jiddu",
+		"dhule",
+		"namaz",
+		"garba",
+		"chawl",
+		"singh",
+		"akbar",
+		"nifty",
+		"bidar",
+		"dance",
+		"rajas",
+		"sadhu",
+		"bihar",
+		"gujju",
+		"parks",
+		"jagat",
+		"kriti",
+		"satya",			
       ],
       Ia = "present",
       Ma = "correct",
@@ -16214,7 +16278,25 @@
 				"Clove is one of the four major spices in trade and history, along with nutmeg, cinnamon, and pepper. Clove was introduced in India by the East India Company during the 1800s along the Courtalam high ranges of the erstwhile south Travancore region.", /*30 clove*/
 				"Iftar, also known as ftoor, is the evening meal with which Muslims end their daily Ramadan fast at sunset. In India, Muslims break their fasts with family and friends, and many Mosques arrange free 'Iftar.' Preparations for iftar commence hours before, in homes and at roadside stalls. ", /*31 iftar*/
 				"In India, lemon and lime are interchangeable. Both go under the common name of Nimbu in northern India.", /*32 nimbu*/
-                "", /*33*/				
+				"The Shyok River a tributary of the Indus River that flows through northern Ladakh and enters Gilgit–Baltistan, spanning some 550 km. The Shyok River originates at the Rimo Glacier, one of the tongues of Siachen Glacier.", /*33 shyok*/
+				"Barfi, barfee, borfi or burfi is a dense milk-based sweet from the Indian subcontinent. The name comes from the Hindustani word barf, which means snow. Common types of barfi include besan barfi, kaju barfi, pista barfi, and sing barfi. Milk powder and sugar are the main ingredients of barfi.", /*34 barfi*/
+				"Ugadi or Yugadi, also known as Samvatsaradi, is the New Year's Day for the states of Andhra Pradesh, Telangana, and Karnataka in India. It is festively observed in these regions on the first day of the Hindu lunisolar calendar month of Chaitra.", /*35 ugadi*/
+				"The Sitar is a plucked stringed instrument, originating from the Indian subcontinent, used in Hindustani classical music. The instrument was invented in medieval India and flourished in the 16th and 17th centuries and arrived at its present form in 18th-century India.", /*36 sitar*/
+				"Kochi (also known as Cochin) is a city in southwest India's coastal Kerala state. It has been a port since 1341, when a flood carved out its harbor and opened it to Arab, Chinese and European merchants. Sites reflecting those influences include Fort Kochi, a settlement with tiled colonial bungalows and diverse houses of worship.", /*37 kochi*/
+				"Assam is a state in northeastern India known for its wildlife, archeological sites and tea plantations. In the west, Guwahati, Assam’s largest city, features silk bazaars and the hilltop Kamakhya Temple. Umananda Temple sits on Peacock Island in the Brahmaputra river. The state capital, Dispur, is a suburb of Guwahati.", /*38 assam*/
+				"Viswanathan 'Vishy' Anand is an Indian chess grandmaster and a five-time world chess champion. He became the first grandmaster from India in 1988, and is one of the few players to have surpassed an Elo rating of 2800, a feat he first achieved in 2006.", /*39 anand*/
+				"Mohammed Yusuf Khan better known by his stage name Dilip Kumar, was an Indian actor and film producer who worked in Hindi cinema. Referred to as the 'Tragedy King' for his portrayal of serious roles and retrospectively as 'The First Khan' of Bollywood, he has been described as one of the most successful film stars in the industry and is credited with bringing a distinct form of method acting to cinema.", /*40 kumar*/
+				"The Indian Rupee is the official currency of India. The rupee is subdivided into 100 paise, though as of 2019, coins of denomination of 1 rupee is the lowest value in use. The issuance of the currency is controlled by the Reserve Bank of India.", /*41 rupee*/
+				"Bhang is an edible preparation made from the leaves of the cannabis plant originating from the Indian subcontinent.It has been used in food and drink as early as 1000 BC in ancient India. Bhang is traditionally distributed during the spring festival of Maha Shivaratri and Holi. Bhang is mainly used in bhang shops, which sell the cannabis-infused Indian drinks bhang lassi and bhang thandai.", /*42 bhang*/
+				"Jawaharlal Nehru was the first, and longest serving prime minister of India. Fondly called Chacha Nehru by children, he advocated for an all-rounded education of children that would build a better society in the future. ", /*43 nehru*/
+				"Chaat or chat is a family of savoury snacks that originated in India, typically served as an hors d'oeuvre or at roadside tracks from stalls or food carts across South Asia in India, Pakistan, Nepal and Bangladesh.", /*44 chaat*/
+				"Surat is a large city beside the Tapi River in the west Indian state of Gujarat. Once known for silk weaving, Surat remains a commercial center for textiles, and the New Textile Market area is lined with fabric shops. ", /*45 surat*/
+				"The dupatta is a Shawl traditionally worn by women in Indian Subcontinent. The dupatta is currently used most commonly as part of the women's Lehnga outfit, and worn over the kurta and the gharara.", /*46 shawl*/
+				"Kalki is the prophesied tenth and final incarnation of Hindu God Vishnu to end the Kali Yuga, one of the four periods in the endless cycle of existence (Krita) in Vaishnavism cosmology. The end of Kali Yuga states this will usher in the new epoch of Satya Yuga in the cycle of existence, until the MahaPralaya (the Great Dissolution of the Universe).", /*47 kalki*/
+				"Ajmer is a city in the northern Indian state of Rajasthan. South of the city's artificial Ana Sagar Lake is Ajmer Sharif Dargah, the domed shrine of the Muslim Sufi saint Garib Nawaz. Nearby, a 16th-century palace built by the Mughal emperor Akbar now houses the Ajmer Government Museum, displaying armor and stone sculptures. ", /*48 ajmer*/
+				"Chess is a board game played between two players. It is sometimes called Western chess or international chess to distinguish it from related games such as xiangqi and shogi. The current form of the game emerged in Southern Europe during the second half of the 15th century after evolving from chaturanga, a similar but much older game of Indian origin.", /*49 chess*/
+				"The Lungi is a type of sarong that originated in the Indian Subcontinent. The multicoloured lungi is a men's skirt usually tied around the lower waist below the navel.", /*50 lungi*/						
+                "", /*51*/  			
                 ];
                 saveArchiveNoApp();
                 if ((e.gameApp.gameStatus == "WIN" || e.gameApp.gameStatus == "FAIL") && funFacts.length > (e.gameApp.dayOffset - 266)) {
