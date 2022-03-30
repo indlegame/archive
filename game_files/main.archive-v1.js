@@ -16288,7 +16288,7 @@
                   //       );
                   //     });
                 var announcement = document.createElement("div");
-                announcement.innerHTML = '<p><h5><center>Check out <a href="https://www.twitter.com/IndleGame" target="_blank">@IndleGame</a> on Twitter!</center></h5></p>';
+                announcement.innerHTML = '<style> a {color: var(--orange);} a:hover {color: var(--green);}</style> <center style="font-size:12px", "acolor: #FF0000">Check out <a href="https://www.twitter.com/IndleGame" target="_blank">@IndleGame</a> on Twitter!</center>';
                 this.shadowRoot.appendChild(announcement); 					  
 					}					
                   }
