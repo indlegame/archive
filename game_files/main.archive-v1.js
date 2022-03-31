@@ -1684,7 +1684,7 @@
 		"barfi",  /* 34 (14Apr ) */
 		"ugadi",  /* 35 (15Apr ) */
 		"sitar",  /* 36 (16Apr ) */
-		"kochi",  /* 37 (17Apr ) */
+		"divya",  /* 37 (17Apr ) */
 		"assam",  /* 38 (18Apr ) */
 		"anand",  /* 39 (19Apr ) */
 		"kumar",  /* 40 (20Apr ) */
@@ -1859,6 +1859,7 @@
 		"ratna",  /* 208 (5Oct ) */	
 		"nagas",  /* 209 (6Oct ) */
 		"maggi",  /* 210 (7Oct ) */				
+		"kochi",  /* 211 (8Oct ) */				
         "kayak", 
         "moose", 
         "pride", 
@@ -14753,7 +14754,7 @@
 		"barfi",
 		"ugadi",
 		"sitar",
-		"kochi",
+		"divya",
 		"assam",
 		"anand",
 		"kumar",
@@ -14927,6 +14928,7 @@
 		"ratna",  
 		"nagas",
 		"maggi",
+		"kochi",
       ],
       Ia = "present",
       Ma = "correct",
@@ -16132,7 +16134,7 @@
 				"Barfi, barfee, borfi or burfi is a dense milk-based sweet from the Indian subcontinent. The name comes from the Hindustani word barf, which means snow. Common types of barfi include besan barfi, kaju barfi, pista barfi, and sing barfi. Milk powder and sugar are the main ingredients of barfi.", /*34 barfi*/
 				"Ugadi or Yugadi, also known as Samvatsaradi, is the New Year's Day for the states of Andhra Pradesh, Telangana, and Karnataka in India. It is festively observed in these regions on the first day of the Hindu lunisolar calendar month of Chaitra.", /*35 ugadi*/
 				"The Sitar is a plucked stringed instrument, originating from the Indian subcontinent, used in Hindustani classical music. The instrument was invented in medieval India and flourished in the 16th and 17th centuries and arrived at its present form in 18th-century India.", /*36 sitar*/
-				"Kochi (also known as Cochin) is a city in southwest India's coastal Kerala state. It has been a port since 1341, when a flood carved out its harbor and opened it to Arab, Chinese and European merchants. Sites reflecting those influences include Fort Kochi, a settlement with tiled colonial bungalows and diverse houses of worship.", /*37 kochi*/
+				"Divya Bharti was an Indian actress who worked predominantly in Hindi and Telugu films. Known for her acting versatility and beauty, she was considered one of the most popular and highest paid Indian actresses of her time. She died in April 1993, aged 19, after falling from the balcony of her apartment in Mumbai. The mysterious circumstances of her death have spawned a number of conspiracy theories.", /*37 divya*/
 				"Assam is a state in northeastern India known for its wildlife, archeological sites and tea plantations. In the west, Guwahati, Assam’s largest city, features silk bazaars and the hilltop Kamakhya Temple. Umananda Temple sits on Peacock Island in the Brahmaputra river. The state capital, Dispur, is a suburb of Guwahati.", /*38 assam*/
 				"Viswanathan 'Vishy' Anand is an Indian chess grandmaster and a five-time world chess champion. He became the first grandmaster from India in 1988, and is one of the few players to have surpassed an Elo rating of 2800, a feat he first achieved in 2006.", /*39 anand*/
 				"Mohammed Yusuf Khan better known by his stage name Dilip Kumar, was an Indian actor and film producer who worked in Hindi cinema. Referred to as the 'Tragedy King' for his portrayal of serious roles and retrospectively as 'The First Khan' of Bollywood, he has been described as one of the most successful film stars in the industry and is credited with bringing a distinct form of method acting to cinema.", /*40 kumar*/
