@@ -1698,168 +1698,173 @@
 		"ajmer",  /* 48 (28Apr ) */
 		"chess",  /* 49 (29Apr ) */
 		"lungi",  /* 50 (30Apr ) */
-		/* sort and set trivia */
-		"atman",  /* 51 (1May ) */
-		"sabzi",  /* 52 (2May ) */
-		"halwa",  /* 53 (3May ) */
-		"kulti",  /* 54 (4May ) */
-		"aadab",  /* 55 (5May ) */
-		"hindi",  /* 56 (6May ) */
-		"bajaj",  /* 57 (7May ) */
-		"khans",  /* 58 (8May ) */
-		"bekal",  /* 59 (9May ) */
-		"moksh",  /* 60 (10May ) */
-		"choli",  /* 61 (11May ) */
-		"asiad",  /* 62 (12May ) */
-		"bandh",  /* 63 (13May ) */
-		"kokum",  /* 64 (14May ) */
-		"toddy",  /* 65 (15May ) */
-		"thane",  /* 66 (16May ) */
-		"alwar",  /* 67 (17May ) */
-		"achar",  /* 68 (18May ) */
-		"tamil",  /* 69 (19May ) */
-		"pulav",  /* 70 (20May ) */
-		"narad",  /* 71 (21May ) */
-		"Fattu",  /* 72 (22May ) */
-		"squid",  /* 73 (23May ) */
-		"bindi",  /* 74 (24May ) */
-		"aamir",  /* 75 (25May ) */
-		"appam",  /* 76 (26May ) */
-		"kohli",  /* 77 (27May ) */
-		"mango",  /* 78 (28May ) */
-		"uttar",  /* 79 (29May ) */
-		"avadi",  /* 80 (30May ) */
-		"jawan",  /* 81 (31May ) */
-		"salam",  /* 82 (1Jun ) */
-		"besan",  /* 83 (2Jun ) */
-		"raita",  /* 84 (3Jun ) */
-		"mallu",  /* 85 (4Jun ) */
-		"mirza",  /* 86 (5Jun ) */
-		"thali",  /* 87 (6Jun ) */
-		"islam",  /* 88 (7Jun ) */
-		"grape",  /* 89 (8Jun ) */
-		"ranis",  /* 90 (9Jun ) */
-		"indus",  /* 91 (10Jun ) */
-		"latur",  /* 92 (11Jun ) */
-		"caves",  /* 93 (12Jun ) */
-		"nayak",  /* 94 (13Jun ) */
-		"pooja",  /* 95 (14Jun ) */
-		"ladoo",  /* 96 (15Jun ) */
-		"qilas",  /* 97 (16Jun ) */
-		"baghs",  /* 98 (17Jun ) */
-		"cumin",  /* 99 (18Jun ) */
-		"kappa",  /* 100 (19Jun ) */
-		"bally",  /* 101 (20Jun ) */
-		"chola",  /* 102 (21Jun ) */
-		"hisar",  /* 103 (22Jun ) */
-		"salem",  /* 104 (23Jun ) */
-		"nawab",  /* 105 (24Jun ) */
-		"puttu",  /* 106 (25Jun ) */
-		"lotus",  /* 107 (26Jun ) */
-		"chaas",  /* 108 (27Jun ) */
-		"galli",  /* 109 (28Jun ) */
-		"halal",  /* 110 (29Jun ) */
-		"south",  /* 111 (30Jun ) */
-		"kulfi",  /* 112 (1Jul ) */
-		"durga",  /* 113 (2Jul ) */
-		"asana",  /* 114 (3Jul ) */
-		"sania",  /* 115 (4Jul ) */
-		"mahal",  /* 116 (5Jul ) */
-		"babur",  /* 117 (6Jul ) */
-		"nagar",  /* 118 (7Jul ) */
-		"bhaji",  /* 119 (8Jul ) */
-		"udupi",  /* 120 (9Jul ) */
-		"ghats",  /* 121 (10Jul ) */
-		"tihar",  /* 122 (11Jul ) */
-		"forts",  /* 123 (12Jul ) */
-		"beans",  /* 124 (13Jul ) */
-		"wheat",  /* 125 (14Jul ) */
-		"crabs",  /* 126 (15Jul ) */
-		"omkar",  /* 127 (16Jul ) */
-		"jowar",  /* 128 (17Jul ) */
-		"budha",  /* 129 (18Jul ) */
-		"hindu",  /* 130 (19Jul ) */
-		"mundu",  /* 131 (20Jul ) */
-		"dhoni",  /* 132 (21Jul ) */
-		"rajma",  /* 133 (22Jul ) */
-		"pappu",  /* 134 (23Jul ) */
-		"mogul",  /* 135 (24Jul ) */
-		"betel",  /* 136 (25Jul ) */
-		"raman",  /* 137 (26Jul ) */
-		"basti",  /* 138 (27Jul ) */
-		"kebab",  /* 139 (28Jul ) */
-		"surya",  /* 140 (29Jul ) */
-		"methi",  /* 141 (30Jul ) */
-		"khadi",  /* 142 (31Jul ) */
-		"north",  /* 143 (1Aug ) */
-		"raina",  /* 144 (2Aug ) */
-		"natya",  /* 145 (3Aug ) */
-		"tatas",  /* 146 (4Aug ) */
-		"kisan",  /* 147 (5Aug ) */
-		"oriya",  /* 148 (6Aug ) */
-		"kapil",  /* 149 (7Aug ) */
-		"munda",  /* 150 (8Aug ) */
-		"music",  /* 151 (9Aug ) */
-		"korba",  /* 152 (10Aug ) */
-		"quran",  /* 153 (11Aug ) */
-		"dewas",  /* 154 (12Aug ) */
-		"simla",  /* 155 (13Aug ) */
-		"gurus",  /* 156 (14Aug ) */
+		"khadi",  /* 51 (1May ) */
+		"garba",  /* 52 (2May ) */
+		"raman",  /* 53 (3May ) */
+		"kochi",  /* 54 (4May ) */
+		"sadhu",  /* 55 (5May ) */
+		"garam",  /* 56 (6May ) */
+		"chawl",  /* 57 (7May ) */
+		"unity",  /* 58 (8May ) */
+		"amrut",  /* 59 (9May ) */
+		"aamir",  /* 60 (10May ) */
+		"bihar",  /* 61 (11May ) */
+		"kisan",  /* 62 (12May ) */
+		"asana",  /* 63 (13May ) */
+		"naidu",  /* 64 (14May ) */
+		"tamil",  /* 65 (15May ) */
+		"asiad",  /* 66 (16May ) */
+		"sania",  /* 67 (17May ) */
+		"bajaj",  /* 68 (18May ) */
+		"akbar",  /* 69 (19May ) */
+		"salem",  /* 70 (20May ) */
+		"times",  /* 71 (21May ) */
+		"thali",  /* 72 (22May ) */
+		"laddu",  /* 73 (23May ) */
+		"cumin",  /* 74 (24May ) */
+		"maggi",  /* 75 (25May ) */
+		"paisa",  /* 76 (26May ) */
+		"natya",  /* 77 (27May ) */
+		"singh",  /* 78 (28May ) */
+		"thane",  /* 79 (29May ) */
+		"nifty",  /* 80 (30May ) */
+		"chola",  /* 81 (31May ) */
+		/* sort and set trivia */		
+		"sport",  /* 82 (1Jun ) */
+		"jiddu",  /* 83 (2Jun ) */
+		"bally",  /* 84 (3Jun ) */
+		"pooja",  /* 85 (4Jun ) */
+		"latur",  /* 86 (5Jun ) */
+		"alwar",  /* 87 (6Jun ) */
+		"puttu",  /* 88 (7Jun ) */
+		"salam",  /* 89 (8Jun ) */
+		"savan",  /* 90 (9Jun ) */
+		"hindi",  /* 91 (10Jun ) */
+		"betel",  /* 92 (11Jun ) */
+		"budha",  /* 93 (12Jun ) */
+		"hindu",  /* 94 (13Jun ) */
+		"kurta",  /* 95 (14Jun ) */
+		"vedas",  /* 96 (15Jun ) */
+		"galli",  /* 97 (16Jun ) */
+		"gujju",  /* 98 (17Jun ) */
+		"bhaji",  /* 99 (18Jun ) */
+		"choli",  /* 100 (19Jun ) */
+		"kriti",  /* 101 (20Jun ) */
+		"oriya",  /* 102 (21Jun ) */
+		"sabzi",  /* 103 (22Jun ) */
+		"dhoti",  /* 104 (23Jun ) */
+		"bajji",  /* 105 (24Jun ) */
+		"wheat",  /* 106 (25Jun ) */
+		"haora",  /* 107 (26Jun ) */
+		"mogul",  /* 108 (27Jun ) */
+		"aadab",  /* 109 (28Jun ) */
+		"bidar",  /* 110 (29Jun ) */
+		"toddy",  /* 111 (30Jun ) */
+		"achar",  /* 112 (1Jul ) */
+		"indus",  /* 113 (2Jul ) */
+		"nagar",  /* 114 (3Jul ) */
+		"tihar",  /* 115 (4Jul ) */
+		"kohli",  /* 116 (5Jul ) */
+		"mundu",  /* 117 (6Jul ) */
+		"dhoni",  /* 118 (7Jul ) */
+		"surya",  /* 119 (8Jul ) */
+		"jowar",  /* 120 (9Jul ) */
+		"chaas",  /* 121 (10Jul ) */
+		"babur",  /* 122 (11Jul ) */
+		"kashi",  /* 123 (12Jul ) */
+		"methi",  /* 124 (13Jul ) */
+		"hisar",  /* 125 (14Jul ) */
+		"reddy",  /* 126 (15Jul ) */
+		"appam",  /* 127 (16Jul ) */
+		"malik",  /* 128 (17Jul ) */
+		"halwa",  /* 129 (18Jul ) */
+		"kapil",  /* 130 (19Jul ) */
+		"bandh",  /* 131 (20Jul ) */
+		"munda",  /* 132 (21Jul ) */
+		"noida",  /* 133 (22Jul ) */
+		"bindi",  /* 134 (23Jul ) */
+		"kulfi",  /* 135 (24Jul ) */
+		"nawab",  /* 136 (25Jul ) */
+		"durga",  /* 137 (26Jul ) */
+		"narad",  /* 138 (27Jul ) */
+		"korba",  /* 139 (28Jul ) */
+		"akola",  /* 140 (29Jul ) */
+		"kokum",  /* 141 (30Jul ) */
+		"simla",  /* 142 (31Jul ) */
+		"mirza",  /* 143 (1Aug ) */
+		"avadi",  /* 144 (2Aug ) */
+		"khaki",  /* 145 (3Aug ) */
+		"uttar",  /* 146 (4Aug ) */
+		"kajol",  /* 147 (5Aug ) */
+		"bekal",  /* 148 (6Aug ) */
+		"satna",  /* 149 (7Aug ) */
+		"basti",  /* 150 (8Aug ) */
+		"beans",  /* 151 (9Aug ) */
+		"raita",  /* 152 (10Aug ) */
+		"parks",  /* 153 (11Aug ) */
+		"ghats",  /* 154 (12Aug ) */
+		"kebab",  /* 155 (13Aug ) */
+		"jeera",  /* 156 (14Aug ) */
 		"india",  /* 157 (15Aug ) */
-		"brahm",  /* 158 (16Aug ) */
-		"vedas",  /* 159 (17Aug ) */
-		"noida",  /* 160 (18Aug ) */
-		"akola",  /* 161 (19Aug ) */
-		"kashi",  /* 162 (20Aug ) */
-		"bhuna",  /* 163 (21Aug ) */
-		"savan",  /* 164 (22Aug ) */
-		"nepal",  /* 165 (23Aug ) */
-		"santi",  /* 166 (24Aug ) */
-		"amrut",  /* 167 (25Aug ) */
-		"river",  /* 168 (26Aug ) */
-		"kurta",  /* 169 (27Aug ) */
-		"unity",  /* 170 (28Aug ) */
-		"haora",  /* 171 (29Aug ) */
-		"tombs",  /* 172 (30Aug ) */
-		"prawn",  /* 173 (31Aug ) */
-		"guava",  /* 174 (1Sep ) */
-		"dhoti",  /* 175 (2Sep ) */
-		"spice",  /* 176 (3Sep ) */
-		"beach",  /* 177 (4Sep ) */
-		"kajol",  /* 178 (5Sep ) */
-		"paisa",  /* 179 (6Sep ) */
-		"reddy",  /* 180 (7Sep ) */
-		"hills",  /* 181 (8Sep ) */
-		"poori",  /* 182 (9Sep ) */
-		"khaki",  /* 183 (10Sep ) */
-		"malik",  /* 184 (11Sep ) */
-		"tejas",  /* 185 (12Sep ) */
-		"apple",  /* 186 (13Sep ) */
-		"jeera",  /* 187 (14Sep ) */
-		"bajji",  /* 188 (15Sep ) */
-		"jiddu",  /* 189 (16Sep ) */
-		"dhule",  /* 190 (17Sep ) */
-		"namaz",  /* 191 (18Sep ) */
-		"garba",  /* 192 (19Sep ) */
-		"chawl",  /* 193 (20Sep ) */
-		"singh",  /* 194 (21Sep ) */
-		"akbar",  /* 195 (22Sep ) */
-		"nifty",  /* 196 (23Sep ) */
-		"bidar",  /* 197 (24Sep ) */
-		"dance",  /* 198 (25Sep ) */
-		"rajas",  /* 199 (26Sep ) */
-		"sadhu",  /* 200 (27Sep ) */
-		"bihar",  /* 201 (28Sep ) */
-		"gujju",  /* 202 (29Sep ) */
-		"parks",  /* 203 (30Sep ) */
-		"jagat",  /* 204 (1Oct ) */
-		"kriti",  /* 205 (2Oct ) */		
-		"satya",  /* 206 (3Oct ) */		
-		"satna",  /* 207 (4Oct ) */		
-		"ratna",  /* 208 (5Oct ) */	
-		"nagas",  /* 209 (6Oct ) */
-		"maggi",  /* 210 (7Oct ) */				
-		"kochi",  /* 211 (8Oct ) */				
+		"dewas",  /* 158 (16Aug ) */
+		"raina",  /* 159 (17Aug ) */
+		"nagas",  /* 160 (18Aug ) */
+		"satya",  /* 161 (19Aug ) */
+		"bhuna",  /* 162 (20Aug ) */
+		"jawan",  /* 163 (21Aug ) */
+		"dhule",  /* 164 (22Aug ) */
+		"pulav",  /* 165 (23Aug ) */
+		"khans",  /* 166 (24Aug ) */
+		"omkar",  /* 167 (25Aug ) */
+		"poori",  /* 168 (26Aug ) */
+		"ratna",  /* 169 (27Aug ) */
+		"atman",  /* 170 (28Aug ) */
+		"chand",  /* 171 (29Aug ) */
+		"jagat",  /* 172 (30Aug ) */
+		"lotus",  /* 173 (31Aug ) */
+		"moksh",  /* 174 (1Sep ) */
+		"udupi",  /* 175 (2Sep ) */
+		"besan",  /* 176 (3Sep ) */
+		"rajma",  /* 177 (4Sep ) */
+		"mahal",  /* 178 (5Sep ) */
+		"patel",  /* 179 (6Sep ) */
+		"apple",  /* 180 (7Sep ) */
+		"beach",  /* 181 (8Sep ) */
+		"brahm",  /* 182 (9Sep ) */
+		"caves",  /* 183 (10Sep ) */
+		"crabs",  /* 184 (11Sep ) */
+		"dance",  /* 185 (12Sep ) */
+		"Fattu",  /* 186 (13Sep ) */
+		"forts",  /* 187 (14Sep ) */
+		"grape",  /* 188 (15Sep ) */
+		"guava",  /* 189 (16Sep ) */
+		"gurus",  /* 190 (17Sep ) */
+		"halal",  /* 191 (18Sep ) */
+		"hills",  /* 192 (19Sep ) */
+		"kappa",  /* 193 (20Sep ) */
+		"kulti",  /* 194 (21Sep ) */
+		"mallu",  /* 195 (22Sep ) */
+		"mango",  /* 196 (23Sep ) */
+		"music",  /* 197 (24Sep ) */
+		"namaz",  /* 198 (25Sep ) */
+		"nayak",  /* 199 (26Sep ) */
+		"nepal",  /* 200 (27Sep ) */
+		"north",  /* 201 (28Sep ) */
+		"pappu",  /* 202 (29Sep ) */
+		"prawn",  /* 203 (30Sep ) */
+		"qilas",  /* 204 (1Oct ) */
+		"quran",  /* 205 (2Oct ) */
+		"rajas",  /* 206 (3Oct ) */
+		"ranis",  /* 207 (4Oct ) */
+		"river",  /* 208 (5Oct ) */
+		"santi",  /* 209 (6Oct ) */
+		"south",  /* 210 (7Oct ) */
+		"squid",  /* 211 (8Oct ) */
+		"tatas",  /* 212 (9Oct ) */
+		"tejas",  /* 213 (10Oct ) */
+		"tombs",  /* 214 (11Oct ) */
+		"islam",  /* 215 (12Oct ) */
+		"baghs",  /* 216 (13Oct ) */
         "kayak", 
         "moose", 
         "pride", 
@@ -14768,167 +14773,172 @@
 		"ajmer",
 		"chess",
 		"lungi",
-		"atman",
-		"sabzi",
-		"halwa",
-		"kulti",
-		"aadab",
-		"hindi",
-		"bajaj",
-		"khans",
-		"bekal",
-		"moksh",
-		"choli",
-		"asiad",
-		"bandh",
-		"kokum",
-		"toddy",
-		"thane",
-		"alwar",
-		"achar",
-		"tamil",
-		"pulav",
-		"narad",
-		"Fattu",
-		"squid",
-		"bindi",
+		"khadi",
+		"garba",
+		"raman",
+		"kochi",
+		"sadhu",
+		"garam",
+		"chawl",
+		"unity",
+		"amrut",
 		"aamir",
-		"appam",
-		"kohli",
-		"mango",
-		"uttar",
-		"avadi",
-		"jawan",
-		"salam",
-		"besan",
-		"raita",
-		"mallu",
-		"mirza",
-		"thali",
-		"islam",
-		"grape",
-		"ranis",
-		"indus",
-		"latur",
-		"caves",
-		"nayak",
-		"pooja",
-		"ladoo",
-		"qilas",
-		"baghs",
-		"cumin",
-		"kappa",
-		"bally",
-		"chola",
-		"hisar",
-		"salem",
-		"nawab",
-		"puttu",
-		"lotus",
-		"chaas",
-		"galli",
-		"halal",
-		"south",
-		"kulfi",
-		"durga",
+		"bihar",
+		"kisan",
 		"asana",
+		"naidu",
+		"tamil",
+		"asiad",
 		"sania",
-		"mahal",
-		"babur",
-		"nagar",
-		"bhaji",
-		"udupi",
-		"ghats",
-		"tihar",
-		"forts",
-		"beans",
-		"wheat",
-		"crabs",
-		"omkar",
-		"jowar",
+		"bajaj",
+		"akbar",
+		"salem",
+		"times",
+		"thali",
+		"laddu",
+		"cumin",
+		"maggi",
+		"paisa",
+		"natya",
+		"singh",
+		"thane",
+		"nifty",
+		"chola",
+		"sport",
+		"jiddu",
+		"bally",
+		"pooja",
+		"latur",
+		"alwar",
+		"puttu",
+		"salam",
+		"savan",
+		"hindi",
+		"betel",
 		"budha",
 		"hindu",
+		"kurta",
+		"vedas",
+		"galli",
+		"gujju",
+		"bhaji",
+		"choli",
+		"kriti",
+		"oriya",
+		"sabzi",
+		"dhoti",
+		"bajji",
+		"wheat",
+		"haora",
+		"mogul",
+		"aadab",
+		"bidar",
+		"toddy",
+		"achar",
+		"indus",
+		"nagar",
+		"tihar",
+		"kohli",
 		"mundu",
 		"dhoni",
-		"rajma",
-		"pappu",
-		"mogul",
-		"betel",
-		"raman",
-		"basti",
-		"kebab",
 		"surya",
-		"methi",
-		"khadi",
-		"north",
-		"raina",
-		"natya",
-		"tatas",
-		"kisan",
-		"oriya",
-		"kapil",
-		"munda",
-		"music",
-		"korba",
-		"quran",
-		"dewas",
-		"simla",
-		"gurus",
-		"india",
-		"brahm",
-		"vedas",
-		"noida",
-		"akola",
+		"jowar",
+		"chaas",
+		"babur",
 		"kashi",
-		"bhuna",
-		"savan",
-		"nepal",
-		"santi",
-		"amrut",
-		"river",
-		"kurta",
-		"unity",
-		"haora",
-		"tombs",
-		"prawn",
-		"guava",
-		"dhoti",
-		"spice",
-		"beach",
-		"kajol",
-		"paisa",
+		"methi",
+		"hisar",
 		"reddy",
-		"hills",
-		"poori",
-		"khaki",
+		"appam",
 		"malik",
-		"tejas",
-		"apple",
-		"jeera",
-		"bajji",
-		"jiddu",
-		"dhule",
-		"namaz",
-		"garba",
-		"chawl",
-		"singh",
-		"akbar",
-		"nifty",
-		"bidar",
-		"dance",
-		"rajas",
-		"sadhu",
-		"bihar",
-		"gujju",
+		"halwa",
+		"kapil",
+		"bandh",
+		"munda",
+		"noida",
+		"bindi",
+		"kulfi",
+		"nawab",
+		"durga",
+		"narad",
+		"korba",
+		"akola",
+		"kokum",
+		"simla",
+		"mirza",
+		"avadi",
+		"khaki",
+		"uttar",
+		"kajol",
+		"bekal",
+		"satna",
+		"basti",
+		"beans",
+		"raita",
 		"parks",
-		"jagat",
-		"kriti",
-		"satya",
-		"satna",  
-		"ratna",  
+		"ghats",
+		"kebab",
+		"jeera",
+		"india",
+		"dewas",
+		"raina",
 		"nagas",
-		"maggi",
-		"kochi",
+		"satya",
+		"bhuna",
+		"jawan",
+		"dhule",
+		"pulav",
+		"khans",
+		"omkar",
+		"poori",
+		"ratna",
+		"atman",
+		"chand",
+		"jagat",
+		"lotus",
+		"moksh",
+		"udupi",
+		"besan",
+		"rajma",
+		"mahal",
+		"patel",
+		"apple",
+		"beach",
+		"brahm",
+		"caves",
+		"crabs",
+		"dance",
+		"Fattu",
+		"forts",
+		"grape",
+		"guava",
+		"gurus",
+		"halal",
+		"hills",
+		"kappa",
+		"kulti",
+		"mallu",
+		"mango",
+		"music",
+		"namaz",
+		"nayak",
+		"nepal",
+		"north",
+		"pappu",
+		"prawn",
+		"qilas",
+		"quran",
+		"rajas",
+		"ranis",
+		"river",
+		"santi",
+		"south",
+		"squid",
+		"tatas",
+		"tejas",
+		"tombs",
+		"islam",
+		"baghs",
       ],
       Ia = "present",
       Ma = "correct",
@@ -16148,7 +16158,38 @@
 				"Ajmer is a city in the northern Indian state of Rajasthan. South of the city's artificial Ana Sagar Lake is Ajmer Sharif Dargah, the domed shrine of the Muslim Sufi saint Garib Nawaz. Nearby, a 16th-century palace built by the Mughal emperor Akbar now houses the Ajmer Government Museum, displaying armor and stone sculptures. ", /*48 ajmer*/
 				"Chess is a board game played between two players. It is sometimes called Western chess or international chess to distinguish it from related games such as xiangqi and shogi. The current form of the game emerged in Southern Europe during the second half of the 15th century after evolving from chaturanga, a similar but much older game of Indian origin.", /*49 chess*/
 				"The Lungi is a type of sarong that originated in the Indian Subcontinent. The multicoloured lungi is a men's skirt usually tied around the lower waist below the navel.", /*50 lungi*/						
-                "", /*51*/  			
+				"Khadi, derived from khaddar, is a hand-spun and woven natural fibre cloth promoted by Mahatma Gandhi as swadeshi (self-sufficiency) for the freedom struggle of the Indian subcontinent, 'Khadi' term is used throughout India, Pakistan and Bangladesh.The first piece of the hand-woven cloth was manufactured in the Sabarmati Ashram during 1917-18. The coarseness of the cloth led Gandhi to call it 'Khadi'. The cloth is usually hand spun and woven from cotton.", /*51 khadi*/
+				"Garba is a form of dance which originates from the state of Gujarat in India. The name is derived from the Sanskrit term Garbha and Deep. Many traditional garbas are performed around a centrally lit lamp or a picture or statue of the Goddess Shakti.", /*52 garba*/
+				"Sir Chandrasekhara Venkata Raman FRS was an Indian physicist known for his work in the field of light scattering. Using a spectrograph that he developed, he and his student K. S. Krishnan discovered that when light traverses a transparent material, the deflected light changes its wavelength and frequency. This phenomenon, a hitherto unknown type of scattering of light, which they called 'modified scattering' was subsequently termed the Raman effect or Raman scattering. Raman received the 1930 Nobel Prize in Physics for the discovery and was the first Asian to receive a Nobel Prize in any branch of science.", /*53 raman*/
+				"Kochi (also known as Cochin) is a city in southwest India's coastal Kerala state. It has been a port since 1341, when a flood carved out its harbor and opened it to Arab, Chinese and European merchants. Sites reflecting those influences include Fort Kochi, a settlement with tiled colonial bungalows and diverse houses of worship. Cantilevered Chinese fishing nets, typical of Kochi, have been in use for centuries.", /*54 kochi*/
+				"Sadhu, also spelled saadhu, is a religious ascetic, mendicant or any holy person in Hinduism and Jainism who has renounced the worldly life. They are sometimes alternatively referred to as yogi, sannyasi or vairagi. Literally, it means one who practises a ″sadhana″ or keenly follows a path of spiritual discipline.", /*55 sadhu*/
+				"India is known for its unique Flavors and Spices. India's most famous seasoning is Garam masala. It's actually a combination of dried spices including pepper, cinnamon, nutmeg, cardamom, cumin, coriander, tej patta, pepper, and some others.", /*56 garam*/
+				"A Chawl is a type of residential building found in western India, similar to a tenement. The first chawls were constructed in the early 1700s, as housing for industrial workers. Chawls are rooted in the history of Bombay's (now Mumbai) colonial past. Workers migrated to Bombay from far and wide, as Bombay was the center of trade for the East India Company. ", /*57 chawl*/
+				"The Statue of Unity is the world's tallest statue, with a height of 182 metres (597 feet), located in the state of Gujarat, India. It depicts Indian statesman and independence activist Vallabhbhai Patel (1875–1950), who was the first deputy prime minister and home minister of independent India and an adherent of Mahatma Gandhi. ", /*58 unity*/
+				"Amrut is a brand of Indian single malt whisky, manufactured by Amrut Distilleries. It is the first single malt whisky to be made in India. Amrut or amrita is a Sanskrit word which can be translated as 'nectar of the gods', 'nectar of life', or 'drink of the gods'. The company translates it as 'Elixir of Life'.", /*59 amrut*/
+				"Mohammed Aamir Hussain Khan is an Indian actor, film director and producer who works in Hindi films. Through his career spanning over 30 years, Khan has established himself as one of the most popular and influential actors of Indian cinema.", /*60 aamir*/
+				"Bihar is a state in East India, bordering Nepal. It is divided by the River Ganges, which floods its fertile plains. Important Buddhist pilgrimage sites include the Bodhi Tree in Bodhgaya's Mahabodhi Temple, under which the Buddha allegedly meditated. ", /*61 bihar*/
+				"Kisan translates to a farmer or agricultural worker in India. The Kisan Sabha movement started in Bihar under the leadership of Sahajanand Saraswati who had formed in 1929 the Bihar Provincial Kisan Sabha (BPKS) in order to mobilise peasant grievances against the zamindari attacks on their occupancy rights, and thus sparking the farmers' movements in India.", /*62 kisan*/
+				"An Asana is a body posture, originally and still a general term for a sitting meditation pose, and later extended in hatha yoga and modern yoga as exercise, to any type of position, adding reclining, standing, inverted, twisting, and balancing poses. The Yoga Sutras of Patanjali define asana as a position that is steady and comfortable. Asanas originated in India.", /*63 asana*/
+				"Sarojini Naidu was an Indian political activist and poet. A proponent of civil rights, women's emancipation, and anti-imperialistic ideas, she was an important figure in India's struggle for independence from colonial rule. Naidu's work as a poet earned her the sobriquet 'the Nightingale of India', or 'Bharat Kokila' by Mahatma Gandhi because of colour, imagery and lyrical quality of her poetry.", /*64 naidu*/
+				"Tamil is a classical Dravidian language natively spoken by the Tamil people of South Asia. Tamil is an official language of the Indian state of Tamil Nadu, the sovereign nations of Sri Lanka and Singapore, and the Union Territory of Puducherry.", /*65 tamil*/
+				"The Asian Games, also known as Asiad, is a continental multi-sport event held every four years among athletes from all over Asia. The 1951 Asian Games, officially known as the First Asian Games, was a multi-sport event celebrated in New Delhi, India from 4 to 11 March 1951. The Games received names like First Asiad and 1951 Asiad.", /*66 asiad*/
+				"Sania Mirza is an Indian professional tennis player. A former doubles world No. 1, she has won six Grand Slam titles in her career. From 2003 until her retirement from singles in 2013, she was ranked by the Women's Tennis Association as India's No. 1 player.", /*67 sania*/
+				"Bajaj Auto Limited is an Indian multinational automotive manufacturing company based in Pune. It manufactures motorcycles, scooters and auto rickshaws. Bajaj Auto is a part of the Bajaj Group. It was founded by Jamnalal Bajaj in Rajasthan in the 1940s. The company has plants in Chakan, Waluj and Pantnagar.", /*68 bajaj*/
+				"Abu'l-Fath Jalal-ud-din Muhammad Akbar, popularly known as Akbar the Great, and also as Akbar I, was the third Mughal emperor, who reigned from 1556 to 1605. Akbar succeeded his father, Humayun, under a regent, Bairam Khan, who helped the young emperor expand and consolidate Mughal domains in India.", /*69 akbar*/
+				"Salem is a city on the Thirumanimuthar River, in the south Indian state of Tamil Nadu. The centuries-old Sugavaneswarar Temple, dedicated to the Hindu deity Shiva, features colorful gopurams (towers) and gardens. Nearby, colonial-era Christ Church is an Indo-Saracenic landmark consecrated in 1875. Jamiya Masjid is a mosque believed to have been built by Tipu Sultan, the 18th-century ruler of the Kingdom of Mysore.", /*70 salem*/
+				"The Times of India is an Indian English-language daily newspaper and digital news media owned and managed by The Times Group. It is the third-largest newspaper in India by circulation and largest selling English-language daily in the world.", /*71 times*/
+				"Thali (meaning 'plate') or Bhojanam (meaning 'full meal') is a round platter used to serve food in India. Though thalis are found throughout the country (many of the twenty-nine Indian states have their own version), it is said that thali originated in South India. Dominated by rice, South Indian cuisine is replete with dishes, that are meant to be consumed on mixing with rice.", /*72 thali*/
+				"Laddu or laddoo is a spherical sweet originating from the Indian subcontinent. Laddus are primarily made from flour, fat and sugar. Laddus are often made of gram flour but can also be made with semolina. Sometimes ingredients such as chopped nuts and/or dried raisins are also added.", /*73 laddu*/
+				"Cumin (Cuminum cyminum) is a flowering plant in the family Apiaceae, native to the Irano-Turanian Region.Its seeds – each one contained within a fruit, which is dried – are used in the cuisines of many cultures in both whole and ground form. Although cumin is thought to have uses in traditional medicine, there is no high-quality evidence that it is safe or effective as a therapeutic agent. India is the world's largest producer of cumin, accounting for about 70%.", /*74 cumin*/
+				"Maggi  is an international brand of seasonings, instant soups, and noodles that originated in Switzerland in the late 19th century. But, the snack achieved cult status in India mainly because of the ease of cooking it and Maggi's 'two-minute' advertising campaign. ", /*75 maggi*/
+				"The Indian Paisa is a 1⁄100 subdivision of the Indian rupee. The paisa was first introduced on 1 April 1957 after decimalisation of the Indian rupee. In 1955, the Government of India first amended the Indian Coinage Act and adopted the 'metric system for coinage'.", /*76 paisa*/
+				"The Natya Shastra is a Sanskrit treatise on the performing arts. The text is attributed to sage Bharata Muni, and its first complete compilation is dated to between 200 BCE and 200 CE, but estimates vary between 500 BCE and 500 CE. The Natya Shastra is notable as an ancient encyclopedic treatise on the arts, one which has influenced dance, music and literary traditions in India.", /*77 natya*/
+				"Yuvraj Singh is a former Indian international cricketer who played in all formats of the game. He is an all-rounder who batted left-handed in the middle order and bowled slow left-arm orthodox, and is known for his aggressive batting style and all-round ability. During the 2011 World Cup, he became the first player to take a 5-wicket haul and score a 50 in the same World Cup match. He took a total of 15 wickets and scored 362 runs during the runs and won the man of the tournament award.", /*78 singh*/
+				"Thane is a city just outside Mumbai, in the western Indian state of Maharashtra. It’s known as the ‘City of Lakes’, and its more than 30 lakes include tree-lined Upvan Lake, a popular recreational spot. Beside Talao Pali Lake, Kopineshwar Mandir is an old, domed Hindu temple dedicated to Lord Shiva. To the west, leopards, monkeys and parakeets inhabit the teak forest and bamboo groves of Sanjay Gandhi National Park.", /*79 thane*/
+				"The NIFTY 50 is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange. It is one of the two main stock indices used in India, the other being the BSE SENSEX.", /*80 nifty*/
+				"The Chola Dynasty was a Tamil thalassocratic empire of southern India, one of the longest-ruling dynasties in the world history. The earliest datable references to the Chola are in inscriptions from the 3rd century BCE left by Ashoka, of the Maurya Empire.", /*81 chola*/
+                "", /*82*/    			
                 ];
                 saveArchiveNoApp();
                 if ((e.gameApp.gameStatus == "WIN" || e.gameApp.gameStatus == "FAIL") && funFacts.length > (e.gameApp.dayOffset - 266)) {
@@ -16357,7 +16398,7 @@
     })(c(HTMLElement));
     customElements.define("game-switch", Ps);
     var $s = document.createElement("template");
-      $s.innerHTML =	  '\n  <style>\n  .instructions {\n    font-size: 14px;\n    color: var(--color-tone-1)\n  }\n\n  .s {\n    border-bottom: 1px solid var(--color-tone-4);\n    border-top: 1px solid var(--color-tone-4);\n  }\n\n  . {\n    margin-top: 24px;\n    margin-bottom: 24px;\n  }\n\n  game-tile {\n    width: 40px;\n    height: 40px;\n  }\n\n  :host([page]) section {\n    padding: 16px;\n    padding-top: 0px;\n  }\n\n  </style>\n  <section>\n    <div class="instructions">\n      <p>Guess the <strong>INDLE</strong> in 6 tries.</p>\n   <p>Each guess must be a valid 5 letter word. Hit the enter button to submit.</p>\n      <p>After each guess, the colour of the tiles will change to show how close your guess was to the word.</p>\n <p>The answer will be a word/place/name/jargon related to India in some way, and an interesting trivia will be displayed after you play!</p>\n     <div class="s">\n        <p><strong>Examples</strong></p>\n        <div class="">\n          <div class="row">\n            <game-tile letter="s" evaluation="correct" reveal></game-tile>\n            <game-tile letter="t"></game-tile>\n            <game-tile letter="a"></game-tile>\n            <game-tile letter="i"></game-tile>\n            <game-tile letter="r"></game-tile>\n          </div>\n          <p>The letter <strong>S</strong> is in the word and in the right spot.</p>\n        </div>\n        <div class="">\n          <div class="row">\n            <game-tile letter="p"></game-tile>\n            <game-tile letter="l" evaluation="present" reveal></game-tile>\n            <game-tile letter="u"></game-tile>\n            <game-tile letter="c"></game-tile>\n            <game-tile letter="k"></game-tile>\n          </div>\n          <p>The letter <strong>L</strong> is in the word but in the wrong spot.</p>\n        </div>\n        <div class="">\n          <div class="row">\n            <game-tile letter="m"></game-tile>\n            <game-tile letter="o"></game-tile>\n            <game-tile letter="n"></game-tile>\n            <game-tile letter="e" evaluation="absent" reveal></game-tile>\n            <game-tile letter="y"></game-tile>\n          </div>\n          <p>The letter <strong>E</strong> is not in the word in any spot.</p>\n        </div>\n      </div>\n      <p><center>A new <strong>INDLE</strong> will be available each day!</center></p>\n </div>\n  </section>\n';	
+      $s.innerHTML =	  '\n  <style>\n  .instructions {\n    font-size: 14px;\n    color: var(--color-tone-1)\n  }\n\n  .s {\n    border-bottom: 1px solid var(--color-tone-4);\n    border-top: 1px solid var(--color-tone-4);\n  }\n\n  . {\n    margin-top: 24px;\n    margin-bottom: 24px;\n  }\n\n  game-tile {\n    width: 40px;\n    height: 40px;\n  }\n\n  :host([page]) section {\n    padding: 16px;\n    padding-top: 0px;\n  }\n\n  </style>\n  <section>\n    <div class="instructions">\n      <p>Guess the <strong>INDLE</strong> in 6 tries.</p>\n   <p>Each guess must be a valid 5 letter word. Hit the enter button to submit.</p>\n      <p>After each guess, the colour of the tiles will change to show how close your guess was to the word.</p>\n <p>The answer will be a word/place/name/jargon related to India in some way, and an interesting trivia will be displayed after you play!</p>\n     <div class="s">\n        <p><strong>Examples</strong></p>\n        <div class="">\n          <div class="row">\n            <game-tile letter="s" evaluation="correct" reveal></game-tile>\n            <game-tile letter="t"></game-tile>\n            <game-tile letter="a"></game-tile>\n            <game-tile letter="i"></game-tile>\n            <game-tile letter="r"></game-tile>\n          </div>\n          <p>The letter <strong>S</strong> is in the word and in the right spot.</p>\n        </div>\n        <div class="">\n          <div class="row">\n            <game-tile letter="p"></game-tile>\n            <game-tile letter="l" evaluation="present" reveal></game-tile>\n            <game-tile letter="u"></game-tile>\n            <game-tile letter="c"></game-tile>\n            <game-tile letter="k"></game-tile>\n          </div>\n          <p>The letter <strong>L</strong> is in the word but in the wrong spot.</p>\n        </div>\n        <div class="">\n          <div class="row">\n            <game-tile letter="m"></game-tile>\n            <game-tile letter="o"></game-tile>\n            <game-tile letter="n"></game-tile>\n            <game-tile letter="e" evaluation="absent" reveal></game-tile>\n            <game-tile letter="y"></game-tile>\n          </div>\n          <p>The letter <strong>E</strong> is not in the word in any spot.</p>\n        </div>\n      </div>\n      <p><center>A new <strong>INDLE</strong> will be available each day until Aug 15, 2022!</center></p>\n </div>\n  </section>\n';	
     var Hs = (function (e) {
       r(t, e);
       var a = h(t);
