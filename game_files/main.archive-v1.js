@@ -697,142 +697,144 @@
 		"thane",  /* 79 (29May ) */
 		"nifty",  /* 80 (30May ) */
 		"chola",  /* 81 (31May ) */
-		/* sort and set trivia */		
-		"sport",  /* 82 (1Jun ) */
-		"jiddu",  /* 83 (2Jun ) */
-		"bally",  /* 84 (3Jun ) */
-		"pooja",  /* 85 (4Jun ) */
-		"latur",  /* 86 (5Jun ) */
+		"hindu",  /* 82 (1Jun ) */
+		"haora",  /* 83 (2Jun ) */
+		"jiddu",  /* 84 (3Jun ) */
+		"bally",  /* 85 (4Jun ) */
+		"pooja",  /* 86 (5Jun ) */
 		"alwar",  /* 87 (6Jun ) */
 		"puttu",  /* 88 (7Jun ) */
-		"salam",  /* 89 (8Jun ) */
-		"savan",  /* 90 (9Jun ) */
-		"hindi",  /* 91 (10Jun ) */
-		"betel",  /* 92 (11Jun ) */
-		"budha",  /* 93 (12Jun ) */
-		"hindu",  /* 94 (13Jun ) */
-		"kurta",  /* 95 (14Jun ) */
-		"vedas",  /* 96 (15Jun ) */
-		"galli",  /* 97 (16Jun ) */
-		"gujju",  /* 98 (17Jun ) */
-		"bhaji",  /* 99 (18Jun ) */
-		"choli",  /* 100 (19Jun ) */
-		"kriti",  /* 101 (20Jun ) */
-		"oriya",  /* 102 (21Jun ) */
-		"sabzi",  /* 103 (22Jun ) */
-		"dhoti",  /* 104 (23Jun ) */
-		"bajji",  /* 105 (24Jun ) */
-		"wheat",  /* 106 (25Jun ) */
-		"haora",  /* 107 (26Jun ) */
-		"mogul",  /* 108 (27Jun ) */
-		"aadab",  /* 109 (28Jun ) */
-		"bidar",  /* 110 (29Jun ) */
-		"toddy",  /* 111 (30Jun ) */
-		"achar",  /* 112 (1Jul ) */
+		"hindi",  /* 89 (8Jun ) */
+		"betel",  /* 90 (9Jun ) */
+		"budha",  /* 91 (10Jun ) */
+		"latur",  /* 92 (11Jun ) */
+		"kurta",  /* 93 (12Jun ) */
+		"vedas",  /* 94 (13Jun ) */
+		"bhaji",  /* 95 (14Jun ) */
+		"choli",  /* 96 (15Jun ) */
+		"oriya",  /* 97 (16Jun ) */
+		"dhoti",  /* 98 (17Jun ) */
+		"wheat",  /* 99 (18Jun ) */
+		"sport",  /* 100 (19Jun ) */
+		"bidar",  /* 101 (20Jun ) */
+		"toddy",  /* 102 (21Jun ) */
+		"achar",  /* 103 (22Jun ) */
+		"kohli",  /* 104 (23Jun ) */
+		"tihar",  /* 105 (24Jun ) */
+		"chaas",  /* 106 (25Jun ) */
+		"malik",  /* 107 (26Jun ) */
+		"bandh",  /* 108 (27Jun ) */
+		"ghats",  /* 109 (28Jun ) */
+		"khans",  /* 110 (29Jun ) */
+		"omkar",  /* 111 (30Jun ) */
+		/* sort and set trivia */		
+		"nagar",  /* 112 (1Jul ) */
 		"indus",  /* 113 (2Jul ) */
-		"nagar",  /* 114 (3Jul ) */
-		"tihar",  /* 115 (4Jul ) */
-		"kohli",  /* 116 (5Jul ) */
-		"mundu",  /* 117 (6Jul ) */
-		"dhoni",  /* 118 (7Jul ) */
-		"surya",  /* 119 (8Jul ) */
-		"jowar",  /* 120 (9Jul ) */
-		"chaas",  /* 121 (10Jul ) */
-		"babur",  /* 122 (11Jul ) */
-		"kashi",  /* 123 (12Jul ) */
-		"methi",  /* 124 (13Jul ) */
-		"hisar",  /* 125 (14Jul ) */
-		"reddy",  /* 126 (15Jul ) */
-		"appam",  /* 127 (16Jul ) */
-		"malik",  /* 128 (17Jul ) */
-		"halwa",  /* 129 (18Jul ) */
-		"kapil",  /* 130 (19Jul ) */
-		"bandh",  /* 131 (20Jul ) */
-		"munda",  /* 132 (21Jul ) */
-		"noida",  /* 133 (22Jul ) */
-		"bindi",  /* 134 (23Jul ) */
-		"kulfi",  /* 135 (24Jul ) */
-		"nawab",  /* 136 (25Jul ) */
-		"durga",  /* 137 (26Jul ) */
-		"narad",  /* 138 (27Jul ) */
-		"korba",  /* 139 (28Jul ) */
-		"akola",  /* 140 (29Jul ) */
-		"kokum",  /* 141 (30Jul ) */
-		"simla",  /* 142 (31Jul ) */
-		"mirza",  /* 143 (1Aug ) */
-		"avadi",  /* 144 (2Aug ) */
-		"khaki",  /* 145 (3Aug ) */
-		"uttar",  /* 146 (4Aug ) */
+		"mundu",  /* 114 (3Jul ) */
+		"dhoni",  /* 115 (4Jul ) */
+		"surya",  /* 116 (5Jul ) */
+		"jowar",  /* 117 (6Jul ) */
+		"babur",  /* 118 (7Jul ) */
+		"kashi",  /* 119 (8Jul ) */
+		"methi",  /* 120 (9Jul ) */
+		"hisar",  /* 121 (10Jul ) */
+		"reddy",  /* 122 (11Jul ) */
+		"appam",  /* 123 (12Jul ) */
+		"halwa",  /* 124 (13Jul ) */
+		"kapil",  /* 125 (14Jul ) */
+		"munda",  /* 126 (15Jul ) */
+		"noida",  /* 127 (16Jul ) */
+		"bindi",  /* 128 (17Jul ) */
+		"kulfi",  /* 129 (18Jul ) */
+		"nawab",  /* 130 (19Jul ) */
+		"durga",  /* 131 (20Jul ) */
+		"narad",  /* 132 (21Jul ) */
+		"korba",  /* 133 (22Jul ) */
+		"akola",  /* 134 (23Jul ) */
+		"kokum",  /* 135 (24Jul ) */
+		"simla",  /* 136 (25Jul ) */
+		"mirza",  /* 137 (26Jul ) */
+		"avadi",  /* 138 (27Jul ) */
+		"uttar",  /* 139 (28Jul ) */
+		"bekal",  /* 140 (29Jul ) */
+		"satna",  /* 141 (30Jul ) */
+		"basti",  /* 142 (31Jul ) */
+		"beans",  /* 143 (1Aug ) */
+		"raita",  /* 144 (2Aug ) */
+		"parks",  /* 145 (3Aug ) */
+		"kebab",  /* 146 (4Aug ) */
 		"kajol",  /* 147 (5Aug ) */
-		"bekal",  /* 148 (6Aug ) */
-		"satna",  /* 149 (7Aug ) */
-		"basti",  /* 150 (8Aug ) */
-		"beans",  /* 151 (9Aug ) */
-		"raita",  /* 152 (10Aug ) */
-		"parks",  /* 153 (11Aug ) */
-		"ghats",  /* 154 (12Aug ) */
-		"kebab",  /* 155 (13Aug ) */
-		"jeera",  /* 156 (14Aug ) */
+		"jeera",  /* 148 (6Aug ) */
+		"dewas",  /* 149 (7Aug ) */
+		"raina",  /* 150 (8Aug ) */
+		"nagas",  /* 151 (9Aug ) */
+		"bhuna",  /* 152 (10Aug ) */
+		"jawan",  /* 153 (11Aug ) */
+		"dhule",  /* 154 (12Aug ) */
+		"pulav",  /* 155 (13Aug ) */
+		"poori",  /* 156 (14Aug ) */
 		"india",  /* 157 (15Aug ) */
-		"dewas",  /* 158 (16Aug ) */
-		"raina",  /* 159 (17Aug ) */
-		"nagas",  /* 160 (18Aug ) */
+		"ratna",  /* 158 (16Aug ) */
+		"atman",  /* 159 (17Aug ) */
+		"chand",  /* 160 (18Aug ) */
 		"satya",  /* 161 (19Aug ) */
-		"bhuna",  /* 162 (20Aug ) */
-		"jawan",  /* 163 (21Aug ) */
-		"dhule",  /* 164 (22Aug ) */
-		"pulav",  /* 165 (23Aug ) */
-		"khans",  /* 166 (24Aug ) */
-		"omkar",  /* 167 (25Aug ) */
-		"poori",  /* 168 (26Aug ) */
-		"ratna",  /* 169 (27Aug ) */
-		"atman",  /* 170 (28Aug ) */
-		"chand",  /* 171 (29Aug ) */
-		"jagat",  /* 172 (30Aug ) */
-		"lotus",  /* 173 (31Aug ) */
-		"moksh",  /* 174 (1Sep ) */
-		"udupi",  /* 175 (2Sep ) */
-		"besan",  /* 176 (3Sep ) */
-		"rajma",  /* 177 (4Sep ) */
-		"mahal",  /* 178 (5Sep ) */
-		"patel",  /* 179 (6Sep ) */
-		"apple",  /* 180 (7Sep ) */
-		"beach",  /* 181 (8Sep ) */
-		"brahm",  /* 182 (9Sep ) */
-		"caves",  /* 183 (10Sep ) */
-		"crabs",  /* 184 (11Sep ) */
-		"dance",  /* 185 (12Sep ) */
-		"Fattu",  /* 186 (13Sep ) */
-		"forts",  /* 187 (14Sep ) */
-		"grape",  /* 188 (15Sep ) */
-		"guava",  /* 189 (16Sep ) */
-		"gurus",  /* 190 (17Sep ) */
-		"halal",  /* 191 (18Sep ) */
-		"hills",  /* 192 (19Sep ) */
-		"kappa",  /* 193 (20Sep ) */
-		"kulti",  /* 194 (21Sep ) */
-		"mallu",  /* 195 (22Sep ) */
-		"mango",  /* 196 (23Sep ) */
-		"music",  /* 197 (24Sep ) */
-		"namaz",  /* 198 (25Sep ) */
-		"nayak",  /* 199 (26Sep ) */
-		"nepal",  /* 200 (27Sep ) */
-		"north",  /* 201 (28Sep ) */
-		"pappu",  /* 202 (29Sep ) */
-		"prawn",  /* 203 (30Sep ) */
-		"qilas",  /* 204 (1Oct ) */
-		"quran",  /* 205 (2Oct ) */
-		"rajas",  /* 206 (3Oct ) */
-		"ranis",  /* 207 (4Oct ) */
-		"river",  /* 208 (5Oct ) */
-		"santi",  /* 209 (6Oct ) */
-		"south",  /* 210 (7Oct ) */
-		"squid",  /* 211 (8Oct ) */
-		"tatas",  /* 212 (9Oct ) */
-		"tejas",  /* 213 (10Oct ) */
-		"tombs",  /* 214 (11Oct ) */
-		"islam",  /* 215 (12Oct ) */
-		"baghs",  /* 216 (13Oct ) */
+		"jagat",  /* 162 (20Aug ) */
+		"lotus",  /* 163 (21Aug ) */
+		"moksh",  /* 164 (22Aug ) */
+		"udupi",  /* 165 (23Aug ) */
+		"besan",  /* 166 (24Aug ) */
+		"rajma",  /* 167 (25Aug ) */
+		"mahal",  /* 168 (26Aug ) */
+		"patel",  /* 169 (27Aug ) */
+		"apple",  /* 170 (28Aug ) */
+		"beach",  /* 171 (29Aug ) */
+		"brahm",  /* 172 (30Aug ) */
+		"caves",  /* 173 (31Aug ) */
+		"crabs",  /* 174 (1Sep ) */
+		"dance",  /* 175 (2Sep ) */
+		"Fattu",  /* 176 (3Sep ) */
+		"forts",  /* 177 (4Sep ) */
+		"grape",  /* 178 (5Sep ) */
+		"guava",  /* 179 (6Sep ) */
+		"gurus",  /* 180 (7Sep ) */
+		"halal",  /* 181 (8Sep ) */
+		"hills",  /* 182 (9Sep ) */
+		"kappa",  /* 183 (10Sep ) */
+		"kulti",  /* 184 (11Sep ) */
+		"mallu",  /* 185 (12Sep ) */
+		"mango",  /* 186 (13Sep ) */
+		"music",  /* 187 (14Sep ) */
+		"namaz",  /* 188 (15Sep ) */
+		"nayak",  /* 189 (16Sep ) */
+		"nepal",  /* 190 (17Sep ) */
+		"north",  /* 191 (18Sep ) */
+		"pappu",  /* 192 (19Sep ) */
+		"prawn",  /* 193 (20Sep ) */
+		"qilas",  /* 194 (21Sep ) */
+		"quran",  /* 195 (22Sep ) */
+		"rajas",  /* 196 (23Sep ) */
+		"ranis",  /* 197 (24Sep ) */
+		"river",  /* 198 (25Sep ) */
+		"santi",  /* 199 (26Sep ) */
+		"south",  /* 200 (27Sep ) */
+		"squid",  /* 201 (28Sep ) */
+		"tatas",  /* 202 (29Sep ) */
+		"tejas",  /* 203 (30Sep ) */
+		"tombs",  /* 204 (1Oct ) */
+		"islam",  /* 205 (2Oct ) */
+		"baghs",  /* 206 (3Oct ) */
+		"salam",  /* 207 (4Oct ) */
+		"savan",  /* 208 (5Oct ) */
+		"galli",  /* 209 (6Oct ) */
+		"gujju",  /* 210 (7Oct ) */
+		"kriti",  /* 211 (8Oct ) */
+		"sabzi",  /* 212 (9Oct ) */
+		"mogul",  /* 213 (10Oct ) */
+		"aadab",  /* 214 (11Oct ) */
+		"khaki",  /* 215 (12Oct ) */
+		"court",  /* 216 (13Oct ) */
+		"vijay",  /* 217 (14Oct ) */
+		"jalsa",  /* 218 (15Oct ) */
         "kayak",
         "moose", 
         "pride", 
@@ -3246,7 +3248,37 @@
 				"Thane is a city just outside Mumbai, in the western Indian state of Maharashtra. It’s known as the ‘City of Lakes’, and its more than 30 lakes include tree-lined Upvan Lake, a popular recreational spot. Beside Talao Pali Lake, Kopineshwar Mandir is an old, domed Hindu temple dedicated to Lord Shiva. To the west, leopards, monkeys and parakeets inhabit the teak forest and bamboo groves of Sanjay Gandhi National Park.", /*79 thane*/
 				"The NIFTY 50 is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange. It is one of the two main stock indices used in India, the other being the BSE SENSEX.", /*80 nifty*/
 				"The Chola Dynasty was a Tamil thalassocratic empire of southern India, one of the longest-ruling dynasties in the world history. The earliest datable references to the Chola are in inscriptions from the 3rd century BCE left by Ashoka, of the Maurya Empire.", /*81 chola*/
-                "", /*82*/           
+				"Hinduism is an Indian religion and dharma, or way of life. It is the world's third-largest religion, with over 1.2 billion followers, or 15–16% of the global population, known as Hindus.",  /* 82 (hindu ) */
+				"Haora or Howrah is the second-largest city after Kolkata in the Indian state of West Bengal. Howrah is located on the western bank of the Hooghly River opposite its twin city of Kolkata. Administratively it lies within Howrah district, and is the headquarters of the Howrah Sadar subdivision.",  /* 83 (haora ) */
+				"Jiddu Krishnamurti was a philosopher, speaker and writer. In his early life, he was groomed to be the new World Teacher, but later rejected this mantle and withdrew from the Theosophy organization behind it.",  /* 84 (jiddu ) */
+				"Bally, also spelled Bali or Baly, city, southeastern West Bengal state, northeastern India. It lies on the west bank of the Hugli (Hooghly) River, opposite Baranagar, and is part of the Haora (Howrah) urban agglomeration as well as the larger Kolkata (Calcutta) metropolitan area.",  /* 85 (bally ) */
+				"Pooja, also spelled puja or poojah, in Hinduism, ceremonial worship, ranging from brief daily rites in the home to elaborate temple rituals. The word Pooja is derived from the Dravidian pu ('flower'). In its simplest form, Pooja usually consists of making an offering of flowers or fruit to an image of a god.",  /* 86 (pooja ) */
+				"Alwar is a city in the northern Indian state of Rajasthan. Alwar City Palace, from 1793, blends architectural styles and has marble pavilions on lotus-shaped bases in its courtyard, plus a museum with rare manuscripts. It’s next to the marble and sandstone Moosi Maharani Chhatri shrine.",  /* 87 (alwar ) */
+				"Puttu, alternatively spelled pittu, is a dish native to the South Indian states of Kerala, Tamil Nadu, and parts of Karnataka, as well as Northern Province in Sri Lanka. Puttu means 'portioned' in Tamil and Malayalam.",  /* 88 (puttu ) */
+				"Hindi, or more precisely Modern Standard Hindi, is an Indo-Aryan language spoken chiefly in the Hindi Belt region encompassing parts of northern, central, eastern and western India.",  /* 89 (hindi ) */
+				"The betel (Piper betle) is a vine of the family Piperaceae, which includes pepper and kava. The betel plant is native to Southeast Asia. There are more than 90 variants of betel leaves globally; about 40 are cultivated in India. Symbols of love and hospitality, the well-known types are the hot Calcutta paan, the tough Bangla Patta, the tender Maghai and the neutral kapuri paan used for making chocolate paan.",  /* 90 (betel ) */
+				"Gautama Buddha was an ascetic and spiritual teacher of South Asia who lived during the latter half of the first millennium BCE. He was the founder of Buddhism. Buddhism is an ancient Indian religion, which arose in and around the ancient Kingdom of Magadha (now in Bihar, India).",  /* 91 (budha ) */
+				"Latur is a city in Maharashtra state, India, and is one of the largest cities of the Marathwada region. It is the administrative headquarters of Latur district and Latur Taluka. The city is a tourist hub surrounded by many historical monuments, including Udgir Fort and Kharosa Caves. ",  /* 92 (latur ) */
+				"The Indus Valley Civilization of North and North-West India witnessed a widespread practice of stitching. Originally, the Kurta Pajama was a cultural dress of the Indian subcontinent. It was only post the British colonization of India that the concept of this garment pair spread across other parts of the world.",  /* 93 (kurta ) */
+				"The Vedas are a large body of religious texts originating in ancient India. Composed in Vedic Sanskrit, the texts constitute the oldest layer of Sanskrit literature and the oldest scriptures of Hinduism. There are four Vedas: the Rigveda, the Yajurveda, the Samaveda and the Atharvaveda.",  /* 94 (vedas ) */
+				"A bhaji or Bajji, is a type of fritter originating from the Indian subcontinent. It is made from spicy hot vegetables, commonly onion, and has several variants",  /* 95 (bhaji ) */
+				"A choli is a blouse or a bodice-like upper garment that is commonly cut short leaving the midriff bare, it is worn along with a sari in the Indian subcontinent. The choli is also part of the ghagra choli costume in the Indian subcontinent.",  /* 96 (choli ) */
+				"Oriya or Odia is an Indo-Aryan language spoken in the Indian state of Odisha. It is the official language in Odisha where native speakers make up 82% of the population, and it is also spoken in parts of West Bengal, Jharkhand and Chhattisgarh.",  /* 97 (oriya ) */
+				"The dhoti, also known as veshti, vetti, dhuti, mardani, chaadra, dhotar, or Jaiñbohorpanchey, is a type of sarong, tied in a manner that outwardly resembles 'loose trousers'. It is a lower garment forming part of the national or ethnic costume for men in the Indian subcontinent.",  /* 98 (dhoti ) */
+				"India’s wheat exports topped an all-time-high of 7 mt valued at $2.05 billion in the fiscal ended March 31, 2022. In mid-February, the Agriculture Ministry estimated the country’s 2021-22 wheat crop (marketed in 2022-23) at a record 111.3 mt.",  /* 99 (wheat ) */
+				"No particular sport is recognised as India’s national game, something confirmed by the country’s Ministry of Youth Affairs and Sports. Field Hockey is often incorrectly believed to be  the National Sport of India, because of the international success that hockey has gained since its Olympic debut in the early 20th century, making the sport a household name.",  /* 100 (sport ) */
+				"Bidar is a city in the north-eastern part of Karnataka state in India. It is the headquarters of Bidar district which borders Maharashtra and Telangana. It is a rapidly urbanising city in the wider Bidar Metropolitan area. The city is well known for its many sites of architectural, historical and religious importance.",  /* 101 (bidar ) */
+				"Palm wine, known by several local names, is an alcoholic beverage created from the sap of various species of palm tree such as the palmyra, date palms, and coconut palms. In India this drink is called Toddy. A toddy shop, also known as a kallu shop is a drinking establishment seen in some parts of India (particularly Kerala) where palm toddy, a mildly alcoholic beverage made from the sap of palm trees, is served along with food. The food served with toddy is very spicy and hot with chilies.",  /* 102 (toddy ) */
+				"A South Asian pickle, also known as pacchadi, achar, athanu, loncha, oorugai, or avakaai is a pickled food, native to the Indian subcontinent, made from a variety of vegetables and fruits, preserved in brine, vinegar, or edible oils along with various Indian spices.",  /* 103 (achar ) */
+				"Virat Kohli is an Indian international cricketer and former captain of the India national cricket team. He plays for Delhi in domestic cricket and Royal Challengers Bangalore in the Indian Premier League as a right-handed batsman. He is considered one of the all time greats for his prolific run scoring ability.",  /* 104 (kohli ) */
+				"Tihar Prisons, also called Tihar Jail and Tihar Ashram, is a prison complex in India and the largest complex of prisons in South Asia. Run by Department of Delhi Prisons, Government of Delhi, the prison contains nine central prisons, and is one of the two prison complexes in Delhi, along with a district prison at Rohini Prison Complex. It is located in Tihar village, approximately 3 km from Janakpuri, to the west of New Delhi, India.",  /* 105 (tihar ) */
+				"Chaas is a curd-based drink popular across the Indian subcontinent. In Rajasthani it is called ghol, in Odia it is called Ghol/Chaash, moru in Tamil and Malayalam, taak in Marathi, majjiga in Telugu, majjige in Kannada, ale in Tulu and laban in Bengali. In Indian English, it is often referred to as buttermilk.",  /* 106 (chaas ) */
+				"Sakshi Malik (born 3 September 1992) is an Indian freestyle wrestler. At the 2016 Summer Olympics, she won the bronze medal in the 58 kg category, becoming the first Indian female wrestler to win a medal at the Olympics. She is a part of the JSW Sports Excellence Program, along with fellow female wrestlers Vinesh Phogat, Babita Kumari and Geeta Phogat.",  /* 107 (malik ) */
+				"Bandh  (literally: shutting down) is a form of protest used by political activists in South Asian countries such as India and Nepal. It is similar to a general strike. During a bandh, a political party or a community declare a general strike.",  /* 108 (bandh ) */
+				"The Western Ghats or the Sahyadri Mountain range is a mountain range that covers an area of 160,000 km² in a stretch of 1,600 km parallel to the western coast of the Indian peninsula, traversing the states of Karnataka, Goa, Maharashtra, Gujarat, Kerala, and Tamil Nadu. ",  /* 109 (ghats ) */
+				"The term Khans of Bollywood refers to several actors of Bollywood, the Mumbai-based Hindi language Indian film industry, whose surnames are Khan. Most commonly, this involves the Three Khans: Shah Rukh Khan, Aamir Khan and Salman Khan.",  /* 110 (khans ) */
+				"Omkar 1973 Worli is a multi-skyscraper project located in Worli, Mumbai. It is a 3-tower development by Omkar Realtors. The project is expected to be completed by 2022. Once complete, Omkar 1973 will be one of the tallest structures in India. The 400-plus sky bungalows, ranging from 2,500 sq. ft. to 18,200 sq. ft. area. It will have a height of over 267 meters and an area of about 5,000,000 sq. ft. ",  /* 111 (omkar ) */
+				"", /*112*/           
                 ];	
                 saveArchiveNoApp();
                 if ((e.gameApp.gameStatus == "WIN" || e.gameApp.gameStatus == "FAIL") && funFacts.length > (e.gameApp.dayOffset - 266)) {
