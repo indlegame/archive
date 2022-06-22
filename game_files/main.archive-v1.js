@@ -727,7 +727,6 @@
 		"ghats",  /* 109 (28Jun ) */
 		"khans",  /* 110 (29Jun ) */
 		"omkar",  /* 111 (30Jun ) */
-		/* sort and set trivia */		
 		"nagar",  /* 112 (1Jul ) */
 		"indus",  /* 113 (2Jul ) */
 		"mundu",  /* 114 (3Jul ) */
@@ -740,9 +739,9 @@
 		"hisar",  /* 121 (10Jul ) */
 		"reddy",  /* 122 (11Jul ) */
 		"appam",  /* 123 (12Jul ) */
-		"halwa",  /* 124 (13Jul ) */
+		"udupi",  /* 124 (13Jul ) */
 		"kapil",  /* 125 (14Jul ) */
-		"munda",  /* 126 (15Jul ) */
+		"lotus",  /* 126 (15Jul ) */
 		"noida",  /* 127 (16Jul ) */
 		"bindi",  /* 128 (17Jul ) */
 		"kulfi",  /* 129 (18Jul ) */
@@ -753,57 +752,58 @@
 		"akola",  /* 134 (23Jul ) */
 		"kokum",  /* 135 (24Jul ) */
 		"simla",  /* 136 (25Jul ) */
-		"mirza",  /* 137 (26Jul ) */
+		"raina",  /* 137 (26Jul ) */
 		"avadi",  /* 138 (27Jul ) */
 		"uttar",  /* 139 (28Jul ) */
-		"bekal",  /* 140 (29Jul ) */
-		"satna",  /* 141 (30Jul ) */
-		"basti",  /* 142 (31Jul ) */
-		"beans",  /* 143 (1Aug ) */
+		"chand",  /* 140 (29Jul ) */
+		"bekal",  /* 141 (30Jul ) */
+		"satya",  /* 142 (31Jul ) */
+		"satna",  /* 143 (1Aug ) */
 		"raita",  /* 144 (2Aug ) */
-		"parks",  /* 145 (3Aug ) */
-		"kebab",  /* 146 (4Aug ) */
-		"kajol",  /* 147 (5Aug ) */
-		"jeera",  /* 148 (6Aug ) */
-		"dewas",  /* 149 (7Aug ) */
-		"raina",  /* 150 (8Aug ) */
-		"nagas",  /* 151 (9Aug ) */
+		"besan",  /* 145 (3Aug ) */
+		"rajma",  /* 146 (4Aug ) */
+		"mahal",  /* 147 (5Aug ) */
+		"kajol",  /* 148 (6Aug ) */
+		"vijay",  /* 149 (7Aug ) */
+		"nagas",  /* 150 (8Aug ) */
+		"jagat",  /* 151 (9Aug ) */
 		"bhuna",  /* 152 (10Aug ) */
-		"jawan",  /* 153 (11Aug ) */
-		"dhule",  /* 154 (12Aug ) */
-		"pulav",  /* 155 (13Aug ) */
-		"poori",  /* 156 (14Aug ) */
+		"poori",  /* 153 (11Aug ) */
+		"music",  /* 154 (12Aug ) */
+		"atman",  /* 155 (13Aug ) */
+		"court",  /* 156 (14Aug ) */
 		"india",  /* 157 (15Aug ) */
-		"ratna",  /* 158 (16Aug ) */
-		"atman",  /* 159 (17Aug ) */
-		"chand",  /* 160 (18Aug ) */
-		"satya",  /* 161 (19Aug ) */
-		"jagat",  /* 162 (20Aug ) */
-		"lotus",  /* 163 (21Aug ) */
-		"moksh",  /* 164 (22Aug ) */
-		"udupi",  /* 165 (23Aug ) */
-		"besan",  /* 166 (24Aug ) */
-		"rajma",  /* 167 (25Aug ) */
-		"mahal",  /* 168 (26Aug ) */
-		"patel",  /* 169 (27Aug ) */
-		"apple",  /* 170 (28Aug ) */
-		"beach",  /* 171 (29Aug ) */
-		"brahm",  /* 172 (30Aug ) */
-		"caves",  /* 173 (31Aug ) */
-		"crabs",  /* 174 (1Sep ) */
-		"dance",  /* 175 (2Sep ) */
-		"Fattu",  /* 176 (3Sep ) */
-		"forts",  /* 177 (4Sep ) */
-		"grape",  /* 178 (5Sep ) */
-		"guava",  /* 179 (6Sep ) */
-		"gurus",  /* 180 (7Sep ) */
-		"halal",  /* 181 (8Sep ) */
-		"hills",  /* 182 (9Sep ) */
-		"kappa",  /* 183 (10Sep ) */
-		"kulti",  /* 184 (11Sep ) */
-		"mallu",  /* 185 (12Sep ) */
-		"mango",  /* 186 (13Sep ) */
-		"music",  /* 187 (14Sep ) */
+		/* sort and set trivia */			
+		"parks",  /* 158 (16Aug ) */
+		"kebab",  /* 159 (17Aug ) */
+		"dewas",  /* 160 (18Aug ) */
+		"basti",  /* 161 (19Jul ) */
+		"beans",  /* 162 (20Aug ) */
+		"jawan",  /* 163 (21Aug ) */
+		"dhule",  /* 164 (22Aug ) */
+		"pulav",  /* 165 (23Aug ) */
+		"ratna",  /* 166 (24Aug ) */
+		"munda",  /* 167 (25Aug ) */
+		"moksh",  /* 168 (26Aug ) */
+		"halwa",  /* 169 (27Aug ) */
+		"patel",  /* 170 (28Aug ) */
+		"apple",  /* 171 (29Aug ) */
+		"beach",  /* 172 (30Aug ) */
+		"brahm",  /* 173 (31Aug ) */
+		"caves",  /* 174 (1Sep ) */
+		"crabs",  /* 175 (2Sep ) */
+		"dance",  /* 176 (3Sep ) */
+		"Fattu",  /* 177 (4Sep ) */
+		"forts",  /* 178 (5Sep ) */
+		"grape",  /* 179 (6Sep ) */
+		"guava",  /* 180 (7Sep ) */
+		"gurus",  /* 181 (8Sep ) */
+		"halal",  /* 182 (9Sep ) */
+		"hills",  /* 183 (10Sep ) */
+		"kappa",  /* 184 (11Sep ) */
+		"kulti",  /* 185 (12Sep ) */
+		"mallu",  /* 186 (13Sep ) */
+		"mango",  /* 187 (14Sep ) */
 		"namaz",  /* 188 (15Sep ) */
 		"nayak",  /* 189 (16Sep ) */
 		"nepal",  /* 190 (17Sep ) */
@@ -820,21 +820,21 @@
 		"squid",  /* 201 (28Sep ) */
 		"tatas",  /* 202 (29Sep ) */
 		"tejas",  /* 203 (30Sep ) */
-		"tombs",  /* 204 (1Oct ) */
-		"islam",  /* 205 (2Oct ) */
-		"baghs",  /* 206 (3Oct ) */
-		"salam",  /* 207 (4Oct ) */
-		"savan",  /* 208 (5Oct ) */
-		"galli",  /* 209 (6Oct ) */
-		"gujju",  /* 210 (7Oct ) */
-		"kriti",  /* 211 (8Oct ) */
-		"sabzi",  /* 212 (9Oct ) */
-		"mogul",  /* 213 (10Oct ) */
-		"aadab",  /* 214 (11Oct ) */
-		"khaki",  /* 215 (12Oct ) */
-		"court",  /* 216 (13Oct ) */
-		"vijay",  /* 217 (14Oct ) */
-		"jalsa",  /* 218 (15Oct ) */
+		"jeera",  /* 204 (1Oct ) */
+		"tombs",  /* 205 (2Oct ) */
+		"islam",  /* 206 (3Oct ) */
+		"baghs",  /* 207 (4Oct ) */
+		"salam",  /* 208 (5Oct ) */
+		"savan",  /* 209 (6Oct ) */
+		"galli",  /* 210 (7Oct ) */
+		"gujju",  /* 211 (8Oct ) */
+		"kriti",  /* 212 (9Oct ) */
+		"sabzi",  /* 213 (10Oct ) */
+		"mogul",  /* 214 (11Oct ) */
+		"aadab",  /* 215 (12Oct ) */
+		"khaki",  /* 216 (13Oct ) */
+		"jalsa",  /* 217 (14Oct ) */
+		"mirza",  /* 218 (15Oct ) */
         "kayak",
         "moose", 
         "pride", 
@@ -3278,7 +3278,52 @@
 				"The Western Ghats or the Sahyadri Mountain range is a mountain range that covers an area of 160,000 km² in a stretch of 1,600 km parallel to the western coast of the Indian peninsula, traversing the states of Karnataka, Goa, Maharashtra, Gujarat, Kerala, and Tamil Nadu. ",  /* 109 (ghats ) */
 				"The term Khans of Bollywood refers to several actors of Bollywood, the Mumbai-based Hindi language Indian film industry, whose surnames are Khan. Most commonly, this involves the Three Khans: Shah Rukh Khan, Aamir Khan and Salman Khan.",  /* 110 (khans ) */
 				"Omkar 1973 Worli is a multi-skyscraper project located in Worli, Mumbai. It is a 3-tower development by Omkar Realtors. The project is expected to be completed by 2022. Once complete, Omkar 1973 will be one of the tallest structures in India. The 400-plus sky bungalows, ranging from 2,500 sq. ft. to 18,200 sq. ft. area. It will have a height of over 267 meters and an area of about 5,000,000 sq. ft. ",  /* 111 (omkar ) */
-				"", /*112*/           
+				"Nagar is a village in the Phillaur tehsil of Jalandhar District of the Indian state of Punjab. It is located on Phillaur-Nawanshahr Road, 6.7 kilometres (4.2 mi) from the head postal office in Phillaur, 7 kilometres (4.3 mi) from Apra, 50 kilometres (31 mi) from Jalandhar, and 117 kilometres (73 mi) from the state capital of Chandigarh.",  /* 112 (nagar ) */
+				"The Indus Valley Civilisation (IVC), also known as the Harappan civilisation or Indus civilisation, was a Bronze Age civilisation in the northwestern regions of South Asia, lasting from 3300 BCE to 1300 BCE, and in its mature form from 2600 BCE to 1900 BCE. Together with ancient Egypt and Mesopotamia, it was one of three early civilisations of the Near East and South Asia, and of the three, the most widespread, its sites spanning an area stretching from today's northeast Afghanistan, through much of Pakistan, and into western and northwestern India.",  /* 113 (indus ) */
+				"The mundu is a garment worn around the waist in the Indian states of Kerala, Tamil Nadu, the Lakshadweep archipelago, and the Indian Ocean island nation of Maldives. It is closely related to sarongs like dhotis and lungis. It is normally woven in cotton and coloured white or cream. The colour is dependent on whether the cotton is bleached or unbleached. ",  /* 114 (mundu ) */
+				"Mahendra Singh Dhoni is an Indian professional cricketer who was captain of the Indian national cricket team in limited-overs formats from 2007 to 2017 and in Test cricket from 2008 to 2014. He is a right-handed wicket-keeper batsman. He led the team to three ICC trophies including the 2007 ICC World Twenty20, 2011 ICC Cricket World Cup and 2013 ICC Champions Trophy.",  /* 115 (dhoni ) */
+				"Surya is the Sun. He is traditionally one of the major five deities in the Smarta tradition, all of whom are considered as equivalent deities in the Panchayatana puja and a means to realise Brahman. Other names of Surya in ancient Indian literature include Aditya, Arka, Bhanu, Savitr, Pushan, Ravi, Martanda, Mitra, Bhaskara, Prabhakara, Kathiravan, and Vivasvan.",  /* 116 (surya ) */
+				"Jowar or sorghum is a cereal grain better known as jowar in India. It can be found in tropical and subtropical climates. People have been eating sorghum for over 5000 years. Its many uses and benefits can be traced back to several civilisations across the world. It is said to be the fifth most important cereal crop grown in the world. Many cultures recognise jowar benefits.",  /* 117 (jowar ) */
+				"Babur , born Zahīr ud-Dīn Muhammad, was the founder of the Mughal Empire in the Indian subcontinent. He was a descendant of Timur and Genghis Khan through his father and mother respectively. He was also given the posthumous name of Firdaws Makani ('Dwelling in Paradise'). Babur married several times. Notable among his sons are Humayun, Kamran Mirza and Hindal Mirza. Babur died in 1530 in Agra and Humayun succeeded him. Babur was first buried in Agra but, as per his wishes, his remains were moved to Kabul and reburied. He ranks as a national hero in Uzbekistan and Kyrgyzstan.",  /* 118 (babur ) */
+				"The Kingdomin of Kashi was an ancient Indian kingdom located in the region around its capital Varanasi, the latter bounded by the Varuna and Asi rivers in the north and south and named after them. It was one of the sixteen Mahajanapadas,[1] great states that emerged in northern India at the start of the 6th century BCE. Varanasi is a city on the Ganges river in northern India that has a central place in pilgrimage, death, and mourning in the Hindu world, even as the traditions are transformed in the face of modernization, generational changes and emigration. The city has a syncretic tradition of Muslim artisanship that underpins its tourism. The name Varanasi was officially so revived after 1947, but the city is still widely known by its earlier name Banaras or Benares, and its ancient name Kashi.",  /* 119 (kashi ) */
+				"Methi is hindi for Fenugreek. The production of fenugreek in India is marked by its dominant position in world production and export. India is the largest producer of fenugreek in the world. Within India Rajasthan accounts for its largest cropped area and production. The fenugreek plant is an annual herbaceous forage legume with aroma, which is used for food in the form of its seeds as spices, and its leaves as a vegetable. It is also used as a medicinal herb in several Ayurvedic formulations for treatment of dry skin, boils, hair loss and so forth. It is believed that fenugreek was known in the Indian cuisine even 3,000 years ago.",  /* 120 (methi ) */
+				"Hisar is a city, municipal corporation and administrative headquarters of Hisar district of Hisar division in the state of Haryana in northwestern India. Hisar near by Bhadra Rajasthan (RJ 49). The word Hisar means fort or castle in Persian. The city was ruled by several major powers, including the Tughlaqs in the 14th century, the Mughals in the 16th century, and the British in the 19th century. After India achieved independence, it was unified with the state of Punjab. When Punjab was divided in 1966, Hisar became part of Haryana.",  /* 121 (hisar ) */
+				"Neelam Sanjiva Reddy was an Indian politician who served as the sixth president of India, serving from 1977 to 1982. Beginning a long political career with the Indian National Congress Party in the independence movement, he went on to hold several key offices in independent India—as the first Chief Minister of Andhra Pradesh, a two-time Speaker of the Lok Sabha and a Union Minister—before becoming the youngest-ever Indian president.",  /* 122 (reddy ) */
+				"Appam is a type of pancake, originating from South India, made with fermented rice batter and coconut milk, common in Tamil Nadu,Kerala and many other southern states in India. It is eaten most frequently for breakfast or dinner.",  /* 123 (appam ) */
+				"Udupi, otherwise spelt Udipi and also known as Odipu, is a city in the Indian state of Karnataka. It is the administrative headquarters of Udupi district, and one of the fastest-growing cities in Karnataka. Udupi is one of the top tourist attractions in Karnataka and has various educational institutions. It is notable for the Krishna Temple and is also known as the temple city.[3] It also lends its name to the popular Udupi cuisine, is also known as Parashurama Kshetra, and is famous for Kanakana kindi. A centre of pilgrimage, Udupi is known as Rajata Peetha and Shivalli (Shivabelle).",  /* 124 (udupi ) */
+				"Kapil Dev Ramlal Nikhanj is an Indian former cricketer. He was a fast-medium bowler and a hard-hitting middle-order batsman, and was named by Wisden as the Indian Cricketer of the Century in 2002. Kapil captained the Indian cricket team that won the 1983 Cricket World Cup, and in the process became the first Indian captain to win the Cricket World Cup, and is still the youngest captain (at the age of 24) to win the World Cup for any team. He retired in 1994, at the time holding the world record for the highest number of wickets taken in Test cricket, a record subsequently broken by Courtney Walsh in 2000.",  /* 125 (kapil ) */
+				"A prominent feature of the Indian mythology, the lotus is one with the Indian identity and represents the core values of Indian psyche. The Lotus symbolizes spirituality, fruitfulness, wealth, knowledge and illumination. The most important thing about lotus is that even after growing in murky water it is untouched by its impurity. The Lotus is also the national flower of India. ",  /* 126 (lotus ) */
+				"Noida, short for New Okhla Industrial Development Authority, is a planned city located in Gautam Buddha Nagar district of the Indian state of Uttar Pradesh. Noida is a satellite city of Delhi and is a part of the National Capital Region of India. As per provisional reports of Census of India, the population of Noida in 2011 was 642,381. The city is managed by New Okhla Industrial Development Authority. The district's administrative headquarters are in the nearby city of Greater Noida.",  /* 127 (noida ) */
+				"A bindi is an auspicious mark worn by young girls and women in India. The name is derived from “Bindu”, a Sanskrit word for “point” or “dot” and is usually red in color made with vermillion powder which is worn by women between their eyebrows on the forehead. The origin of the bindi can be found in ancient times but has lost this significance in modern life and is mostly worn all over the world as an accessory.",  /* 128 (bindi ) */
+				"Kulfi is a frozen dairy dessert originating in the Indian subcontinent during the Mughal era in the 16th century. It is often described as ”traditional Indian ice cream.” Kulfi is a traditional sweet of the Indian subcontinent, where it is commonly sold by street vendors called kulfiwallahs. It is popular in Bangladesh, Myanmar, Nepal, Sri Lanka, and the Middle East and part of the national cuisines of India, Pakistan, and Trinidad and Tobago.",  /* 129 (kulfi ) */
+				"The term Nawab of Pataudi refers to the lineage of rulers of the former princely Pataudi State in Northern India. Pataudi was established in 1804 by the British East India Company. The 8th Nawab of Pataudi, Iftikhar Ali Khan Pataudi, played first-class cricket for both England and India while his son, Mansoor Ali Khan Pataudi, the last Nawab, captained the Indian cricket team. Actor Saif Ali Khan and actress Soha Ali Khan are the children of the last Nawab of Pataudi, whereas actress Sara Ali Khan is the granddaughter of the last Nawab.",  /* 130 (nawab ) */
+				"Durga is a major deity in Hinduism. She is worshipped as a one of principal aspect of the supreme mother goddess Mahadevi and is one of the most popular and widely revered among Indian divinities. She is associated with protection, strength, motherhood, destruction and wars. Durga has a significant following all over India (particularly in its eastern states such as West Bengal, Odisha, Jharkhand, Assam and Bihar), Bangladesh and Nepal. Durga is revered after spring and autumn harvests, specially during the festivals of Durga Puja and Navratri.",  /* 131 (durga ) */
+				"Narada or Narad Muni, is a sage divinity, famous in Hindu traditions as a travelling musician and storyteller, who carries news and enlightening wisdom. He is one of mind-created children of Brahma, the creator god. He appears in a number of Hindu texts, notably the Mahabharata, telling Yudhishtira the story of Prahlada and the Ramayana as well as in the Puranas. His Greek and Roman counterparts are Mercury and Hermes.",  /* 132 (narad ) */
+				"Korba is a city and an industrial area in Korba District in the Indian state of Chhattisgarh. Korba was erstwhile part of Bilaspur District before 25 May 1998 later that Korba was made a separate District for ease of administration but it is still under Bilaspur Division. Korba is called power capital of Chhattisgarh due to its Coal reserves and Industrial base for multiple thermal based power plants from Public sector like NTPC Limited, CSEB from State of Chhattisgarh as well as from private sector apart from Power plants Korba has the Asia's second largest and India's largest open cast coal mine in Gevra area of Korba Coalfield. Korba produces 140 Million tons of coal every year which accounts for 17% of Country's total coal production and 85% of Chhattisgarh Coal production.",  /* 133 (korba ) */
+				"Akola is the third largest city in Vidarbha after Nagpur and Amravati and tenth largest city in Maharashtra. is located about 580 kilometres (360 mi) east of the state capital, Mumbai, and 250 kilometres (160 mi) west of the second capital, Nagpur. Akola is the administrative headquarters of the Akola district located in the Amravati division, and is governed by the Akola Municipal Corporation. Akola is an important educational center with several colleges affiliated with the Sant Gadge Baba Amravati University. The city is developing into a market center. The primary language spoken by the people of Akola is Marathi.",  /* 134 (akola ) */
+				"Garcinia indica, a plant in the mangosteen family (Clusiaceae), commonly known as kokum, is a fruit-bearing tree that has culinary, pharmaceutical, and industrial uses. Kokum is indigenous to the tropical forest regions of India. Of the 35 species found in India, 17 are endemic. Of these, seven are endemic to the Western Ghats, six in the Andaman and Nicobar Islands and four in the northeastern region of India. The kokum variety from the Ratnagiri and Sindhudurg districts from the coastal Konkan region of the state of Maharashtra in India has received the GI (Geographical Indication) tag.",  /* 135 (kokum ) */
+				"Simla also known as Shimla,  is the capital and the largest city of the Northern Indian state of Himachal Pradesh. In 1864, Simla was declared as the summer capital of British India. After independence, the city became the capital of East Punjab and was later made the capital city of Himachal Pradesh. It is the principal commercial, cultural and educational centre of the state. Owing to its steep terrain, Simla hosts the mountain biking race MTB Himalaya, which started in 2005 and is regarded as the biggest event of its kind in South Asia. Simla also has the largest natural ice skating rink in South Asia. Apart from being a tourism centre, the city is also an educational hub with several colleges and research institutions.",  /* 136 (simla ) */
+				"Suresh Raina is a former Indian international cricketer. He occasionally served as stand-in captain for Indian men's national cricket team during the absence of the main captain. He played for Uttarpradesh in domestic cricket circuit. He is an aggressive left-handed middle-order batsman and an occasional off-spin bowler. He is the second-youngest player ever to captain India. He was the captain of Gujarat Lions in the Indian Premier League, and he also served as vice-captain of the Chennai Super Kings. He is the first Indian batsman to hit a century in all three formats of international cricket.",  /* 137 (raina ) */
+				"Avadi is a suburb of Chennai lying inside the Chennai Metropolitan Area limit, located in the Thiruvallur district of Tamil Nadu, India. It is a municipal corporation lying to the west of Chennai, about 22 kilometres (14 mi) west of Chennai Central Railway Station. It is surrounded by major defence establishments and is home to various universities and engineering colleges. The city is served by Avadi Railway Station of the Chennai Suburban Railway. As of 2011, Avadi had a population of 345,996, which is 10th most populous place in Tamil Nadu. It is home to the Heavy Vehicles Factory (HVF), Ordnance Factory Board (ODF) which houses Engine Factory and Combat Vehicles Research and Development Establishment (CVRDE). The lake in Avadi was known as Paaleripattu, which is now found only in very old land documents.",  /* 138 (avadi ) */
+				"Uttar Pradesh is a state in northern India. With over 200 million inhabitants, it is the most populated state in India as well as the most populous country subdivision in the world. It was established in 1950 after India had become a republic. It was a successor to the United Provinces (UP) during the period of the Dominion of India (1947–1950), which in turn was a successor to the United Provinces (UP) established in 1935, and eventually of the United Provinces of Agra and Oudh established in 1902 during the British Raj. The state is divided into 18 divisions and 75 districts, with the state capital being Lucknow, and Prayagraj serving as the judicial capital.",  /* 139 (uttar ) */
+				"Major Dhyan Chand Saini was an Indian field hockey player widely regarded as one of the greatest field hockey player in history. He was known for his extraordinary ball control and goal-scoring feats, in addition to earning three Olympic gold medals, in 1928, 1932 and 1936, during an era where India dominated field hockey. His influence extended beyond these victories, as India won the field hockey event in seven out of eight Olympics from 1928 to 1964. His birthday, 29 August, is celebrated as National Sports Day in India every year. India's highest sporting honour Major Dhyan Chand Khel Ratna Award is named after him.",  /* 140 (chand ) */
+				"Bekal is a small town in the Kasaragod district on the West coast of the state of Kerala, India. Bekal is a town located at the Northern extreme of Kerala 16 km south of the town on the National Highway and is the largest and best preserved fort in the whole of Kerala, bordered by beach. Shaped like a giant keyhole, the historic Bekal Fort offers a view of the Arabian Sea from its tall observation towers, which had huge cannons a couple centuries ago.",  /* 141 (bekal ) */
+				"Satya Narayana Nadella is an Indian American business executive. He is the executive chairman and CEO of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",  /* 142 (satya ) */
+				"Satna is a city in the Indian state of Madhya Pradesh. It serves as the headquarters of Satna district. It is 6th largest city and 8th most populous city of the state. The city is 500 km east of the state capital Bhopal. The city is distributed over a land area of 111.9 square kilometres. Satna has been selected as one of the hundred Indian cities to be developed as a smart city under PM Narendra Modi's flagship Smart Cities Mission.",  /* 143 (satna ) */
+				"Raita is a side dish in Indian cuisine made of dahi (yogurt, often referred to as curd) together with raw or cooked vegetables, more seldom fruit, or in the case of boondi raita, with fried droplets of batter made from besan (chickpea flour, generally labeled as gram flour). The closest approximation in western cuisine is a side dish or dip, or a cooked salad. It is often referred to as a condiment, but unlike traditional western condiments like salt, pepper, mustard and horseradish that make dishes more spicy, a dish of dahi or raita has a cooling effect to contrast with spicy curries and kebabs that are the main fare of some Asian cuisines. In Indian cuisine, some type of flatbread may be eaten together with raita, chutneys and pickles. The yogurt may be seasoned with coriander, roasted cumin seeds, mint, cayenne pepper, chaat masala and other herbs and spices.",  /* 144 (raita ) */
+				"Gram flour or Besan is a pulse flour made from a type of ground chickpea called the gram chickpea. It is a staple ingredient in the cuisine of the Indian subcontinent, including in Indian, Bangladeshi, Burmese, Nepali, Pakistani, Sri Lankan and Caribbean cuisines. In Andhra Pradesh, it is used in a curry with gram flour cakes called Senaga Pindi Kura and is eaten with Chapati or Puri, mostly during winter for breakfast. Chila, a pancake made with gram flour batter, is a popular street food in India.",  /* 145 (besan ) */
+				"Rajma, also known as rajmah, razma, or lal lobia, is a vegetarian dish, originating from the Indian subcontinent, consisting of red kidney beans in a thick gravy with many Indian whole spices, and is usually served with rice. It is a part of regular diet in India, Nepal, Bangladesh and Punjab province of Pakistan. The dish developed after the red kidney bean was brought to the Indian subcontinent from Mexico. Rajma chawal is kidney beans served with boiled rice.",  /* 146 (rajma ) */
+				"The Taj Mahal is an Islamic ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall. The Taj Mahal complex is believed to have been completed in its entirety in 1653 at a cost estimated at the time to be around ₹32 million, which in 2020 would be approximately ₹70 billion (about US $1 billion). It is regarded by many as the best example of Mughal architecture and a symbol of India's rich history. The Taj Mahal attracts more than 6 million visitors a year[3] and in 2007, it was declared a winner of the New 7 Wonders of the World (2000–2007) initiative.",  /* 147 (mahal ) */
+				"Kajol Devgn, known mononymously as Kajol, is an Indian actress. Described in the media as one of the most successful actresses of Hindi cinema, she is the recipient of numerous accolades, including six Filmfare Awards, among which she shares the record for most Best Actress wins with her late aunt Nutan. In 2011, she was honoured with the Padma Shri by the Government of India.",  /* 148 (kajol ) */
+				"Vijay Amritraj is an Indian sports commentator, actor and retired professional tennis player from Madras. He was awarded the Padma Shri, India's 4th highest civilian honour, in 1983. After playing his first Grand Prix event in 1970, Amritraj achieved his first significant success in singles in 1973 when he reached the quarterfinals at two Grand Slam events. At Wimbledon, he lost in five sets to the eventual champion Jan Kodeš and later that summer at the US Open, lost to Ken Rosewall after having beaten Rod Laver two rounds earlier.  Amritraj was part of the India Davis Cup team that reached the finals in 1974 and 1987. Amritraj had a career singles win–loss record 384–296, winning 16 singles and 13 doubles titles.",  /* 149 (vijay ) */
+				"Nagas are various ethnic groups native to northeastern India and northwestern Myanmar. The groups have similar cultures and traditions, and form the majority of population in the Indian state of Nagaland and Naga Self-Administered Zone of Myanmar; with significant populations in Manipur, Arunachal Pradesh and Assam in India; Sagaing Region and Kachin State in Myanmar (Burma).",  /* 150 (nagas ) */
+				"Jagat is a Sanskrit word that means ”world,” specifically the physical world or planet. In Advaita Vedanta, jagat is understood as a persons' subjective experience of reality in the material world. It is described specifically in contrast to Brahman, which is considered to be the Supreme Reality, Infinite and Omnipresent. In this understanding, jagat is considered an illusion and unreal in comparison to Brahman. Brahman is the truly awakened state, where individuals rediscover their oneness with Brahman.",  /* 151 (jagat ) */
+				"Bhuna is technically an Indian cooking technique in which spices are fried in very hot oil, often until they have formed a paste. For many people, however, the term bhuna is used to refer to a curry dish which has been prepared using these fried spices. This type of curry usually consists of meat, vegetables, or a combination of the two, cooked and served in a thick, spiced sauce. It is common throughout the Bengal region of northeast India and western Bangladesh and is also a popular menu item at Indian restaurants in the US and Europe.",  /* 152 (bhuna ) */
+				"Poori or Puri is a deep-fried bread made from unleavened whole-wheat flour that originated in the Indian subcontinent. It is eaten for breakfast or as a snack or light meal. It is usually served with a savory curry or bhaji, as in poori bhaji, but may also be eaten with sweet dishes.",  /* 153 (poori ) */
+				"The two main traditions of Indian classical music are Carnatic music, which is practised predominantly in the peninsular (southern) regions, and Hindustani music, which is found in the northern, eastern and central regions. The basic concepts of this music includes Shruti (microtones), Swaras (notes), Alankar (ornamentations), Raga (melodies improvised from basic grammars), and Tala (rhythmic patterns used in percussion). Its tonal system divides the octave into 22 segments called Shrutis, not all equal but each roughly equal to a quarter of a whole tone of the Western music. Both the classical music are standing on the fundamentals of The seven notes of Indian Classical music. These seven notes are also called as Sapta svara or Sapta Sur. These seven svaras are Sa, Re, Ga, Ma, Pa, Dha and Ni respectively. ",  /* 154 (music ) */
+				"Atman is a Sanskrit word that refers to the (universal) Self or self-existent essence of individuals, as distinct from ego (Ahamkara), mind (Citta) and embodied existence (Prakrti). The term is often translated as soul, but is better translated as ”Self,” as it solely refers to pure consciousness or witness-consciousness, beyond identification with phenomena. In order to attain moksha (liberation), a human being must acquire self-knowledge (Atma Gyaan or Brahmajnana).",  /* 155 (atman ) */
+				"The Supreme Court of India is the supreme judicial body of India and the highest court of the Republic of India under the constitution. It is the most senior constitutional court, and has the power of judicial review. The chief justice of India is the head and chief judge of the Supreme Court, which consists of a maximum of 34 judges and has extensive powers in the form of original, appellate and advisory jurisdictions. As the apex constitutional court in India, it takes up appeals primarily against verdicts of the high courts of various states of the Union and other courts and tribunals. ",  /* 156 (court ) */
+				"India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world. India has been a federal republic since 1950, governed in a democratic parliamentary system. It is a pluralistic, multilingual and multi-ethnic society. India's population grew from 361 million in 1951 to 1.211 billion in 2011. During the same time, its nominal per capita income increased from US$64 annually to US$1,498, and its literacy rate from 16.6% to 74%. From being a comparatively destitute country in 1951, India has become a fast-growing major economy and a hub for information technology services, with an expanding middle class. Jai Hind!",  /* 157 (india ) */						  
                 ];	
                 saveArchiveNoApp();
                 if ((e.gameApp.gameStatus == "WIN" || e.gameApp.gameStatus == "FAIL") && funFacts.length > (e.gameApp.dayOffset - 266)) {
@@ -3422,8 +3467,9 @@
                   //       );
                   //     });
                 var announcement = document.createElement("div");
-                announcement.innerHTML = '<style> a {color: var(--orange);} a:hover {color: var(--green);}</style> <center style="font-size:12px", "acolor: #FF0000">Follow us <a href="https://www.twitter.com/IndleGame" target="_blank"><strong>@IndleGame</strong></a> on <strong>Twitter!<strong></center>';
-                this.shadowRoot.appendChild(announcement); 					  
+                //announcement.innerHTML = '<style> a {color: var(--orange);} a:hover {color: var(--green);}</style> <center style="font-size:12px", "acolor: #FF0000">Follow us <a href="https://www.twitter.com/IndleGame" target="_blank"><strong>@IndleGame</strong></a> on <strong>Twitter!<strong></center>';
+                announcement.innerHTML = '<center style="font-size:12px">Try a different puzzle. Play <a href="https://sank0403.github.io/geordle/"target="_"><strong>GEORDLE</strong></a> 🌎 \n <style> a {color: var(--orange);} a:hover {color: var(--green);}</style> <center style="font-size:12px", "acolor: #FF0000">Share your results with us <a href="https://www.twitter.com/IndleGame" target="_blank"><strong>@IndleGame</strong></a> on <strong> Twitter! </strong></center>';  
+				this.shadowRoot.appendChild(announcement); 					  
                 }
               },
             },
@@ -3487,7 +3533,7 @@
     })(c(HTMLElement));
     customElements.define("game-switch", Ps);
     var $s = document.createElement("template");
-      $s.innerHTML =	  '\n  <style>\n  .instructions {\n    font-size: 14px;\n    color: var(--color-tone-1)\n  }\n\n  .s {\n    border-bottom: 1px solid var(--color-tone-4);\n    border-top: 1px solid var(--color-tone-4);\n  }\n\n  . {\n    margin-top: 24px;\n    margin-bottom: 24px;\n  }\n\n  game-tile {\n    width: 40px;\n    height: 40px;\n  }\n\n  :host([page]) section {\n    padding: 16px;\n    padding-top: 0px;\n  }\n\n  </style>\n  <section>\n    <div class="instructions">\n      <p>Guess the <strong>INDLE</strong> in 6 tries.</p>\n   <p>Each guess must be a valid word. Hit the enter button to submit.</p>\n      <p>After each guess, the colour of the tiles will change to show how close your guess was to the word.</p>\n <p>The answer will be a word/place/name/jargon related to India in some way, and an interesting trivia will be displayed after you play!</p>\n     <div class="s">\n        <p><strong>Examples</strong></p>\n        <div class="">\n          <div class="row">\n            <game-tile letter="s" evaluation="correct" reveal></game-tile>\n            <game-tile letter="t"></game-tile>\n            <game-tile letter="a"></game-tile>\n            <game-tile letter="i"></game-tile>\n            <game-tile letter="r"></game-tile>\n          </div>\n          <p>The letter <strong>S</strong> is in the word and in the right spot.</p>\n        </div>\n        <div class="">\n          <div class="row">\n            <game-tile letter="p"></game-tile>\n            <game-tile letter="l" evaluation="present" reveal></game-tile>\n            <game-tile letter="u"></game-tile>\n            <game-tile letter="c"></game-tile>\n            <game-tile letter="k"></game-tile>\n          </div>\n          <p>The letter <strong>L</strong> is in the word but in the wrong spot.</p>\n        </div>\n        <div class="">\n          <div class="row">\n            <game-tile letter="m"></game-tile>\n            <game-tile letter="o"></game-tile>\n            <game-tile letter="n"></game-tile>\n            <game-tile letter="e" evaluation="absent" reveal></game-tile>\n            <game-tile letter="y"></game-tile>\n          </div>\n          <p>The letter <strong>E</strong> is not in the word in any spot.</p>\n        </div>\n      </div>\n      <p><center>A new <strong>INDLE</strong> will be available each day!</center></p>\n </div>\n  </section>\n';	
+      $s.innerHTML =	  '\n  <style>\n  .instructions {\n    font-size: 14px;\n    color: var(--color-tone-1)\n  }\n\n  .s {\n    border-bottom: 1px solid var(--color-tone-4);\n    border-top: 1px solid var(--color-tone-4);\n  }\n\n  . {\n    margin-top: 24px;\n    margin-bottom: 24px;\n  }\n\n  game-tile {\n    width: 40px;\n    height: 40px;\n  }\n\n  :host([page]) section {\n    padding: 16px;\n    padding-top: 0px;\n  }\n\n  </style>\n  <section>\n    <div class="instructions">\n      <p>Guess the <strong>INDLE</strong> in 6 tries.</p>\n   <p>Each guess must be a valid word. Hit the enter button to submit.</p>\n      <p>After each guess, the colour of the tiles will change to show how close your guess was to the word.</p>\n <p>The answer will be a word/place/name/jargon related to India in some way, and an interesting trivia will be displayed after you play!</p>\n     <div class="s">\n        <p><strong>Examples</strong></p>\n        <div class="">\n          <div class="row">\n            <game-tile letter="s" evaluation="correct" reveal></game-tile>\n            <game-tile letter="t"></game-tile>\n            <game-tile letter="a"></game-tile>\n            <game-tile letter="i"></game-tile>\n            <game-tile letter="r"></game-tile>\n          </div>\n          <p>The letter <strong>S</strong> is in the word and in the right spot.</p>\n        </div>\n        <div class="">\n          <div class="row">\n            <game-tile letter="p"></game-tile>\n            <game-tile letter="l" evaluation="present" reveal></game-tile>\n            <game-tile letter="u"></game-tile>\n            <game-tile letter="c"></game-tile>\n            <game-tile letter="k"></game-tile>\n          </div>\n          <p>The letter <strong>L</strong> is in the word but in the wrong spot.</p>\n        </div>\n        <div class="">\n          <div class="row">\n            <game-tile letter="m"></game-tile>\n            <game-tile letter="o"></game-tile>\n            <game-tile letter="n"></game-tile>\n            <game-tile letter="e" evaluation="absent" reveal></game-tile>\n            <game-tile letter="y"></game-tile>\n          </div>\n          <p>The letter <strong>E</strong> is not in the word in any spot.</p>\n        </div>\n      </div>\n      <p><center><strong style="color: var(--orange);" >A new INDLE will be available each day until Independence Day, Aug 15th 2022.</strong></center></p>\n </div>\n  </section>\n';	
     var Hs = (function (e) {
       r(t, e);
       var a = h(t);
