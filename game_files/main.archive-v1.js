@@ -2488,7 +2488,7 @@
                 })),
                 (this.shadowRoot.querySelector("#plus-archive").addEventListener("click", function () {
                     var currentGame = Ga(new Date(JSON.parse(window.localStorage.getItem(archiveDate)))) - 265;
-                    if (currentGame == Ga(new Date()) - 266) {
+                    if (currentGame == Ga(new Date()) - 266|| currentGame > 156) { //last day logic - write the last but 1 day here 
                       return;
                     }
 
@@ -2503,6 +2503,12 @@
                 })),
                 (this.shadowRoot.querySelector("#random-archive").addEventListener("click", function () {
                     var archiveToday = new Date();
+					//last day logic - begin
+					var lastDate = new Date(2022, 7, 15, 0, 0, 0);
+					if (archiveToday >= lastDate){
+					var archiveToday = new Date(2022, 7, 16, 0, 0, 0);
+					}
+					//last day logic - end						
                     var currentGame = Ga(archiveToday) - 265;
                     var randomGame = Math.floor(Math.random() * (currentGame - 1)) + 1;
                     var dayDiff = currentGame - randomGame;
@@ -2530,6 +2536,12 @@
                 })),
                 (this.shadowRoot.querySelector("#last-archive").addEventListener("click", function () {
                     var archiveToday = new Date();
+					//last day logic - begin
+					var lastDate = new Date(2022, 7, 15, 0, 0, 0);
+					if (archiveToday >= lastDate){
+					var archiveToday = new Date(2022, 7, 16, 0, 0, 0);
+					}
+					//last day logic - end						
                     var archiveYesterday = new Date(archiveToday.setDate(archiveToday.getDate() - 1));
                     
                     window.localStorage.setItem("archive-hasPlayed", "1");
